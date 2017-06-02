@@ -1,5 +1,5 @@
 Analysis and Visualisation Report
-=====＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
+=======================================
 The idea of this visualisation is based on Clark-Fisher theory which is also called the three-sector theory.
 According to the theory, the main focus of an economy's activity shifts from the primary(agriculture),
 through the secondary(industry) and finally to the tertiary(services) sector. In other words, this theory
@@ -12,7 +12,7 @@ Based on this assumption, dataset including ‘share of employment by sector’ 
 that the analysis and visualisation derived from it could justify this assumption and show the process of
 economics moving through three sector.
 • Description of dataset and transformation
-－－－－－－－－－－－－－－－－－－－－－－－－－－－
+----------------------------------------------
 1. Origin of dataset
 Variables File name Description
 Share of employment by
