@@ -430,23 +430,17 @@ volume of employment. But the sad thing is the chart itself can’t give the rea
 Further, if we are interested in what those countries are, the awkward thing is the charts for countries
 doesn’t show name of country since it is impossible to show names for countries among so many lines.
 ### 4. The map section
-
 Merits:
 The world map gives a general view about the distribution of share in service around the world.It is
 easy to detect how unbalanced the situation is.
-
 It also shows a moving forward economic development process, since the blue colour becomes darker
 when you move the slider.
-
 At the same time, by pointing out a specify country, it shows detail for a specific country.
 
 Drawbacks:
-
 When mouseovering a specific countries, the tooltip shows. But it might be better to show the situation
 for this country along the time line.
-
 In the graph below, when mouseovering on Russia, the related lines should be showed.
-
 But there is a webpage layout problem, because it is impossible to place both the linechart for countries
 and the map within on screen. Therefore, for some countries (e.g. Australia) positioned in the bottom
 of map, the related lines would be unseen.
@@ -454,7 +448,6 @@ of map, the related lines would be unseen.
 ### 5. ‘Explain a lot’ or ‘Let the user explore themselves’
 The web page of this visualisation work is full of words. This is a problem. No explanation might make
 users get lost, too many explanations might leave no room for users to explore by themselves.
-
 A good visualisation work should be able to explain itself.
 
 • Conclusion
