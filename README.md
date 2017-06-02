@@ -1,14 +1,17 @@
 Analysis and Visualisation Report
 =======================================
-> The idea of this visualisation is based on Clark-Fisher theory which is also called the three-sector theory.
+> 
+The idea of this visualisation is based on Clark-Fisher theory which is also called the three-sector theory.
 According to the theory, the main focus of an economy's activity shifts from the primary(agriculture),
 through the secondary(industry) and finally to the tertiary(services) sector. In other words, this theory
 assumes that the share of employment in each sector could be used to show that economies move
 through three stages.
-> Further, the theory believes that the process of shifting through 3 stages is related with per capita income.
+> 
+Further, the theory believes that the process of shifting through 3 stages is related with per capita income.
 Therefore, a higher share of employment in services sector of one country means a higher economic
 development level.
-> Based on this assumption, dataset including ‘share of employment by sector’ was found with the hope
+> 
+Based on this assumption, dataset including ‘share of employment by sector’ was found with the hope
 that the analysis and visualisation derived from it could justify this assumption and show the process of
 economics moving through three sector.
 
