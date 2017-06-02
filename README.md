@@ -137,6 +137,7 @@ CMT212 Visual Communication and Information Design Coursework 2
 The result is not significant only for Middle East. For the remaining regions, the result is significant and
 the Pearson R values for each region are similar with results of the previous test.
 ### 3.5 Checking the hypothesis of correlation for the same countries across 28 years
+
 In addition, in order to detect whether ‘GDP per capita increase as the share in services sector increases’
 for each country, the hypothesis of Pearson correlation was also check for each countries using code
 below.
@@ -144,6 +145,7 @@ The result shows there is only 19 countries having negative correlation between 
 means as share in services sector increases, GDP per capita also decrease.
 For all the other countries, the two factors we tested have positive correlation, and the corresponding
 results are significant.
+
 ['Bosnia and Herzegovina', (-0.82455502701483951, 2.3652440062225532e-06)]
 ['Georgia', (-0.33622870666734583, 0.10031626879505239)]
 ['Sri Lanka', (-0.15575920247615105, 0.45719090066447088)]
@@ -163,8 +165,7 @@ results are significant.
 ['Ghana', (-0.61654986575818882, 0.0010300225414538709)]
 ['Zambia', (-0.8822507488425978, 5.5049183011055491e-09)]
 ['Zimbabwe', (-0.076271895001828252, 0.7170801640449127)]
-CMT212 Visual Communication and Information Design Coursework 2
-7
+
 • Main procedures of Implementation
 ---------------------------------------------
 In this part, only procedures which is worth pointing out will be mentioned, such as problem fixed or still
@@ -457,6 +458,7 @@ But there might be a few redundancies (repetitions) among this visualisation wor
 data are mentioned by different sections. Also, there are some findings need to be explained by external
 factors. So it is always worth planning thoroughly before implementing, therefore we could avoid
 redundancy and make much of every data ink.
+
 Another point is d3.js is quite different with other language (python, R), someone tend to think it is a
 language which lacks structure. In this way, it might be better to always write clear comments for codes.
 Last, for a starter of d3, java script, css, also visualisation, it might be easy to get obsessed with the syntax,
