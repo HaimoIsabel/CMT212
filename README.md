@@ -69,7 +69,8 @@ Js.d3.
 • Data analysis by python
 ---------------------------------
 For data analysis, the main methods used are from python packages matplotlib, scipy.stats.
-1. Does the data show the process of economic shifting through 3 stages?
+### 1. Does the data show the process of economic shifting through 3 stages?
+
 Time plot was used to plot shares of 3 sectors from 1991 to 2018 against time series.
 The plot for the world shows as the share of employment in Agricultures decreases, the other two
 increase.
@@ -78,33 +79,40 @@ CMT212 Visual Communication and Information Design Coursework 2
 The same figure also plotted for China and Poland. The two time plots show the two countries are at
 the different stage of the shifting process. China is in the secondary stage, and Poland is in the tertiary
 stage.
-2. Is there any difference between female and male?
-(1) Boxplot
+### 2. Is there any difference between female and male?
+
+#### (1) Boxplot
 The boxplot showing the distribution of share of employment by sector and gender for 178 countries
 in 2012.
 The boxplot below shows the median of shares of employment in agriculture, industry, services are
 around 20%, 20%, 54% respectively. The distance between lower and upper quartiles are huge for
 agriculture and services. Also, the share of employment for female tends to be lower than male in
 industry sector, and tends to be higher in services sector.
-(2) T-test
+#### (2) T-test
 The previous finding could be justified by a group of T-test across different countries within the 9
 regions. The null hypothesis for the T-test is the mean values for men and women are not significant
 different.
-(2.1) Checking normality for male and female groups for all countries.
+##### (2.1) Checking normality for male and female groups for all countries.
 CMT212 Visual Communication and Information Design Coursework 2
 4
 The result of normality test shows normality.
-(2.2) Performing T-test between male and female groups for all countries.
+##### (2.2) Performing T-test between male and female groups for all countries.
 The result shows the values for female is higher than male for 8 regions except south Asia, but the
 results for ‘Developed Economies & European Union’ and ‘East Asia’ are not significant, since p-value
 are above 0.05.
-The finding includes:
-(1) The shares of employment in agriculture and services sector both have huge between differences
+
+### The finding includes:
+
+#### (1) The shares of employment in agriculture and services sector both have huge between differences
 countries, the development stage for different countries are quite diversified.
-(2) The proportion of women working in services sector is higher than men, and the proportion of men
+
+#### (2) The proportion of women working in services sector is higher than men, and the proportion of men
 working in industry sector is higher than women.
-(3) A higher proportion of women tend to work in services sector.
+
+#### (3) A higher proportion of women tend to work in services sector.
+
 3. Whether the shifting process through 3 sectors is correlated with an economy’s development state?
+-----------------------------------------------------------------------------------------------------
 3.1 Use of indicator
 Share of employment in services sector is used as indicator of the stage of the shifting process;
 GDP per Capita/Output per worker is used as indicator of the economic development state.
