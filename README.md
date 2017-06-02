@@ -111,20 +111,24 @@ working in industry sector is higher than women.
 
 #### (3) A higher proportion of women tend to work in services sector.
 
-3. Whether the shifting process through 3 sectors is correlated with an economy’s development state?
------------------------------------------------------------------------------------------------------
-3.1 Use of indicator
+### 3. Whether the shifting process through 3 sectors is correlated with an economy’s development state?
+
+#### 3.1 Use of indicator
+
 Share of employment in services sector is used as indicator of the stage of the shifting process;
 GDP per Capita/Output per worker is used as indicator of the economic development state.
-3.2 Hypothesis of Pearson correlation
+
+#### 3.2 Hypothesis of Pearson correlation
+
 The null hypothesis is there is no correlation between the two factors (r=0). Then if the test result is not
 significant (p-value < 0.05), we can reject the null hypothesis, and conclude that they are correlated.
-3.3 Perspectives of detecting their correlation
+
+#### 3.3 Perspectives of detecting their correlation
 We could interpret the correlation between the two factors from two perspectives:
-1) For the same time period, countries or regions having higher share in services sector tend to have
+##### 1) For the same time period, countries or regions having higher share in services sector tend to have
 higher GDP per capita.
-2) For the same country or region, as share in services sector increases, GDP per capita also increase.
-3.4 Checking the hypothesis of correlation for the same period across different countries
+##### 2) For the same country or region, as share in services sector increases, GDP per capita also increase.
+#### 3.4 Checking the hypothesis of correlation for the same period across different countries
 Checking the assumption that countries or regions having higher share in services sector tend to have
 higher GDP per capita.
 (1) Scatterplot between share of employment in services and GDP per capita for each country in 2012
