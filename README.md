@@ -11,6 +11,7 @@ development level.
 Based on this assumption, dataset including ‘share of employment by sector’ was found with the hope
 that the analysis and visualisation derived from it could justify this assumption and show the process of
 economics moving through three sector.
+
 • Description of dataset and transformation
 ----------------------------------------------
 1. Origin of dataset
