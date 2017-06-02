@@ -1,0 +1,535 @@
+Year,Country,Sector,Share,Country_id,Region,Region_id,GDP_per_Capita,Output_per_worker
+2012,Australia,Services,76.9,36,Developed Economies & European Union,1,67646.10385,80166
+2012,Austria,Services,68.8,40,Developed Economies & European Union,1,48333.57273,90365
+2012,Belgium,Services,77,56,Developed Economies & European Union,1,44740.5717,11546
+2012,Bulgaria,Services,62.2,100,Developed Economies & European Union,1,7378.025539,28651
+2012,Canada,Services,78.7,124,Developed Economies & European Union,1,52496.69487,35991
+2012,Croatia,Services,58.8,191,Developed Economies & European Union,1,13235.97757,30000
+2012,Cyprus,Services,75.9,196,Developed Economies & European Union,1,28951.15556,95992
+2012,Czech Republic,Services,58.8,203,Developed Economies & European Union,1,19729.87051,25896
+2012,Denmark,Services,77.6,208,Developed Economies & European Union,1,58507.50021,83410
+2012,Estonia,Services,64.1,233,Developed Economies & European Union,1,17421.88799,85132
+2012,Finland,Services,72.9,246,Developed Economies & European Union,1,47415.55987,75465
+2012,France,Services,75.1,250,Developed Economies & European Union,1,40838.02444,54715
+2012,Germany,Services,70.2,276,Developed Economies & European Union,1,44065.24891,27763
+2012,Greece,Services,70.3,300,Developed Economies & European Union,1,22242.68193,115001
+2012,Hungary,Services,65,348,Developed Economies & European Union,1,12834.32349,75432
+2012,Iceland,Services,76.1,352,Developed Economies & European Union,1,44333.85018,18911
+2012,Ireland,Services,76.9,372,Developed Economies & European Union,1,49231.36162,22258
+2012,Israel,Services,79.4,376,Developed Economies & European Union,1,32569.59683,177652
+2012,Italy,Services,68.4,380,Developed Economies & European Union,1,34814.12436,38517
+2012,Japan,Services,69.2,392,Developed Economies & European Union,1,48629.19969,80615
+2012,Latvia,Services,68,428,Developed Economies & European Union,1,13799.24488,24673
+2012,Lithuania,Services,66.1,440,Developed Economies & European Union,1,14348.33936,40380
+2012,Luxembourg,Services,86,442,Developed Economies & European Union,1,106247.7357,11988
+2012,Malta,Services,76.8,470,Developed Economies & European Union,1,22081.60163,34226
+2012,Netherlands,Services,80.6,528,Developed Economies & European Union,1,49474.70561,40861
+2012,New Zealand,Services,74.6,554,Developed Economies & European Union,1,40066.5648,66200
+2012,Norway,Services,77.5,578,Developed Economies & European Union,1,101563.7027,89861
+2012,Poland,Services,57,616,Developed Economies & European Union,1,13145.10484,80926
+2012,Portugal,Services,63.8,620,Developed Economies & European Union,1,20577.40264,95408
+2012,Romania,Services,42.4,642,Developed Economies & European Union,1,8558.397606,127980
+2012,Slovakia,Services,59.2,703,Developed Economies & European Union,1,17274.6423,99013
+2012,Slovenia,Services,60.5,705,Developed Economies & European Union,1,22486.47167,70009
+2012,Spain,Services,74.8,724,Developed Economies & European Union,1,28562.29324,91741
+2012,Sweden,Services,78.2,752,Developed Economies & European Union,1,57134.07707,73023
+2012,Switzerland,Services,75.3,756,Developed Economies & European Union,1,83164.38795,54442
+2012,United Kingdom,Services,79.6,826,Developed Economies & European Union,1,41538.30726,75639
+2012,United States,Services,80.5,840,Developed Economies & European Union,1,51433.04709,54822
+2012,Albania,Services,39.7,8,Central & South Eastern Europe (non-EU) & CIS,2,4247.839852,9588
+2012,Armenia,Services,44.1,51,Central & South Eastern Europe (non-EU) & CIS,2,3565.517575,12339
+2012,Azerbaijan,Services,48,31,Central & South Eastern Europe (non-EU) & CIS,2,7393.771877,4734
+2012,Belarus,Services,54.8,112,Central & South Eastern Europe (non-EU) & CIS,2,6721.483351,14372
+2012,Bosnia and Herzegovina,Services,49.2,70,Central & South Eastern Europe (non-EU) & CIS,2,4494.64064,8776
+2012,Georgia,Services,39.4,268,Central & South Eastern Europe (non-EU) & CIS,2,4142.869175,11013
+2012,Kazakhstan,Services,55.1,398,Central & South Eastern Europe (non-EU) & CIS,2,12387.18982,25562
+2012,Kyrgyzstan,Services,46.4,417,Central & South Eastern Europe (non-EU) & CIS,2,1177.974735,5475
+2012,Montenegro,Services,76.1,499,Central & South Eastern Europe (non-EU) & CIS,2,6586.80384,6640
+2012,Republic of Moldova,Services,54.2,498,Central & South Eastern Europe (non-EU) & CIS,2,2046.536787,10992
+2012,Russian Federation,Services,61.2,643,Central & South Eastern Europe (non-EU) & CIS,2,15042.19164,10530
+2012,Serbia,Services,52.4,688,Central & South Eastern Europe (non-EU) & CIS,2,5659.380204,1364
+2012,Tajikistan,Services,26.5,762,Central & South Eastern Europe (non-EU) & CIS,2,962.4408177,4078
+2012,The former Yugoslav Republic of Macedonia,Services,52.8,807,Central & South Eastern Europe (non-EU) & CIS,2,4709.511628,13503
+2012,Turkey,Services,50.4,792,Central & South Eastern Europe (non-EU) & CIS,2,10539.36545,1194
+2012,Turkmenistan,Services,43,795,Central & South Eastern Europe (non-EU) & CIS,2,6797.721166,8405
+2012,Ukraine,Services,64.3,804,Central & South Eastern Europe (non-EU) & CIS,2,3855.42128,4468
+2012,Uzbekistan,Services,41.7,860,Central & South Eastern Europe (non-EU) & CIS,2,1740.468298,2273
+2012,China,Services,36.9,156,East Asia,6,6337.882993,5891
+2012,"Hong Kong, China",Services,87.8,344,East Asia,6,36707.77423,64943
+2012,"Korea, Democratic People's Republic of",Services,33.5,408,East Asia,6,,3027
+2012,"Korea, Republic of",Services,61,410,East Asia,6,24453.97191,44112
+2012,"Macau, China",Services,82.6,446,East Asia,6,77145.0395,80970
+2012,Mongolia,Services,49.1,496,East Asia,6,4377.23887,3780
+2012,"Taiwan, China",Services,58.4,158,East Asia,6,,33162
+2012,Brunei Darussalam,Services,77.7,96,South East Asia & the Pacific,4,46973.93793,54286
+2012,Cambodia,Services,30.4,116,South East Asia & the Pacific,4,946.4766787,1186
+2012,East Timor,Services,41.9,626,South East Asia & the Pacific,4,1173.240321,3831
+2012,Fiji,Services,51.8,242,South East Asia & the Pacific,4,4543.815358,3846
+2012,Indonesia,Services,44.7,360,South East Asia & the Pacific,4,3700.523525,1435
+2012,Lao People's Democratic Republic,Services,19.1,418,South East Asia & the Pacific,4,1445.416201,16033
+2012,Malaysia,Services,59.4,458,South East Asia & the Pacific,4,10834.65908,1589
+2012,Myanmar,Services,27.5,104,South East Asia & the Pacific,4,1136.786368,3779
+2012,Papua New Guinea,Services,25.2,598,South East Asia & the Pacific,4,2151.210277,61623
+2012,Philippines,Services,52.4,608,South East Asia & the Pacific,4,2604.655997,5722
+2012,Singapore,Services,79.1,702,South East Asia & the Pacific,4,54451.21033,1557
+2012,Solomon Islands,Services,36.8,90,South East Asia & the Pacific,4,1866.707969,10064
+2012,Thailand,Services,39.4,764,South East Asia & the Pacific,4,5915.221147,2476
+2012,Viet Nam,Services,31.5,704,South East Asia & the Pacific,4,1754.547974,3013
+2012,Afghanistan,Services,33.4,4,South Asia,5,690.842629,1796
+2012,Bangladesh,Services,32,50,South Asia,5,858.9333626,1273
+2012,Bhutan,Services,31.4,64,South Asia,5,2452.151588,4082
+2012,India,Services,28.3,356,South Asia,5,1446.767109,3006
+2012,Maldives,Services,61.3,462,South Asia,5,6541.070465,11841
+2012,Nepal,Services,17.1,524,South Asia,5,698.4098897,765
+2012,Pakistan,Services,35.7,586,South Asia,5,1264.900909,2372
+2012,Sri Lanka,Services,33.4,144,South Asia,5,3350.521375,4593
+2012,Argentina,Services,75.3,32,Latin America & the Caribbean,3,12970.1739,42198
+2012,Bahamas,Services,83.6,44,Latin America & the Caribbean,3,22554.51572,20704
+2012,Barbados,Services,75.9,52,Latin America & the Caribbean,3,15385.11637,11374
+2012,Belize,Services,62.2,84,Latin America & the Caribbean,3,4674.293447,13167
+2012,Bolivia,Services,50.1,68,Latin America & the Caribbean,3,2645.291999,30181
+2012,Brazil,Services,63.9,76,Latin America & the Caribbean,3,12179.69062,3712
+2012,Chile,Services,66,152,Latin America & the Caribbean,3,15253.33083,1166
+2012,Colombia,Services,62,170,Latin America & the Caribbean,3,7885.061292,10200
+2012,Costa Rica,Services,66.4,188,Latin America & the Caribbean,3,9985.313797,29582
+2012,Cuba,Services,61.8,192,Latin America & the Caribbean,3,6448.327553,72245
+2012,Dominican Republic,Services,69.5,214,Latin America & the Caribbean,3,5968.826218,13031
+2012,Ecuador,Services,54.4,218,Latin America & the Caribbean,3,5702.168288,29287
+2012,El Salvador,Services,58.1,222,Latin America & the Caribbean,3,3921.720395,10525
+2012,Guadeloupe,Services,79.6,312,Latin America & the Caribbean,3,,12959
+2012,Guatemala,Services,48.6,320,Latin America & the Caribbean,3,3278.626346,7515
+2012,Guyana,Services,49,328,Latin America & the Caribbean,3,3759.383547,5959
+2012,Haiti,Services,44,332,Latin America & the Caribbean,3,766.8721739,4104
+2012,Honduras,Services,46,340,Latin America & the Caribbean,3,2378.519569,19854
+2012,Jamaica,Services,66.5,388,Latin America & the Caribbean,3,5357.443968,3479
+2012,Martinique,Services,81.4,474,Latin America & the Caribbean,3,,16625
+2012,Mexico,Services,63.7,484,Latin America & the Caribbean,3,9720.561674,16097
+2012,Nicaragua,Services,57.3,558,Latin America & the Caribbean,3,1776.209244,2776
+2012,Panama,Services,64.5,591,Latin America & the Caribbean,3,10672.35895,11659
+2012,Paraguay,Services,56.2,600,Latin America & the Caribbean,3,3855.572185,20838
+2012,Peru,Services,57.3,604,Latin America & the Caribbean,3,6386.374449,9813
+2012,Puerto Rico,Services,84.4,630,Latin America & the Caribbean,3,27811.5558,7804
+2012,Suriname,Services,58.6,740,Latin America & the Caribbean,3,9422.270994,3831
+2012,Trinidad and Tobago,Services,61.6,780,Latin America & the Caribbean,3,19152.18149,8174
+2012,Uruguay,Services,69.1,858,Latin America & the Caribbean,3,15092.47206,15684
+2012,Venezuela,Services,71,862,Latin America & the Caribbean,3,12771.59504,15082
+2012,Bahrain,Services,58.1,48,Middle East,7,23057.76758,27336
+2012,"Iran, Islamic Republic of",Services,48.7,364,Middle East,7,7710.513314,10771
+2012,Iraq,Services,61.8,368,Middle East,7,6614.584821,7599
+2012,Jordan,Services,80.4,400,Middle East,7,4423.117355,10738
+2012,Kuwait,Services,81.8,414,Middle East,7,50903.9046,60640
+2012,Lebanon,Services,72.7,422,Middle East,7,8773.931956,19418
+2012,Oman,Services,53.6,512,Middle East,7,21631.89096,30103
+2012,Qatar,Services,46.1,634,Middle East,7,92692.64331,72517
+2012,Saudi Arabia,Services,70.3,682,Middle East,7,24883.18971,50766
+2012,Syrian Arab Republic,Services,53,760,Middle East,7,,7011
+2012,United Arab Emirates,Services,74.4,784,Middle East,7,41712.39795,36947
+2012,West Bank and Gaza Strip,Services,62.4,275,Middle East,7,2787.169741,7356
+2012,Yemen,Services,41.8,887,Middle East,7,1422.723779,3292
+2012,Algeria,Services,61.2,12,North Africa,8,5583.616152,11155
+2012,Egypt,Services,47.9,818,North Africa,8,3226.131379,5306
+2012,Libya,Services,70.2,434,North Africa,8,,20294
+2012,Morocco,Services,39.3,504,North Africa,8,2931.4002,7575
+2012,Sudan,Services,39.5,729,North Africa,8,1806.450797,3137
+2012,Tunisia,Services,50.6,788,North Africa,8,4139.53811,12566
+2012,Angola,Services,52.2,24,Sub-Saharan Africa,9,5086.848426,364
+2012,Benin,Services,48.3,204,Sub-Saharan Africa,9,811.2162408,1976
+2012,Botswana,Services,53.2,72,Sub-Saharan Africa,9,6885.843598,456
+2012,Burkina Faso,Services,13.8,854,Sub-Saharan Africa,9,673.0625112,569
+2012,Burundi,Services,6,108,Sub-Saharan Africa,9,244.1964862,1695
+2012,Cameroon,Services,27,120,Sub-Saharan Africa,9,1222.192142,558
+2012,Cape Verde,Services,48.1,132,Sub-Saharan Africa,9,3497.689697,619
+2012,Central African Republic,Services,23.7,140,Sub-Saharan Africa,9,472.8182181,16366
+2012,Chad,Services,18.7,148,Sub-Saharan Africa,9,972.6794135,989
+2012,Comoros,Services,24.8,174,Sub-Saharan Africa,9,778.1058844,807
+2012,Congo,Services,45.8,178,Sub-Saharan Africa,9,3191.164299,2873
+2012,"Congo, Democratic Republic of",Services,16.7,180,Sub-Saharan Africa,9,390.7066035,1796
+2012,C_te d'Ivoire,Services,35.4,384,Sub-Saharan Africa,9,1281.382865,989
+2012,Equatorial Guinea,Services,45,226,Sub-Saharan Africa,9,28937.29884,1060
+2012,Eritrea,Services,16.4,232,Sub-Saharan Africa,9,,2172
+2012,Ethiopia,Services,15.2,231,Sub-Saharan Africa,9,469.7923039,878
+2012,Gabon,Services,67.5,266,Sub-Saharan Africa,9,10642.43225,8009
+2012,Gambia,Services,32.1,270,Sub-Saharan Africa,9,504.9890138,2501
+2012,Ghana,Services,27.3,288,Sub-Saharan Africa,9,1641.825922,855
+2012,Guinea,Services,20.7,324,Sub-Saharan Africa,9,487.3457142,1506
+2012,Guinea-Bissau,Services,28.5,624,Sub-Saharan Africa,9,580.6429369,5181
+2012,Kenya,Services,34.5,404,Sub-Saharan Africa,9,1184.923256,453
+2012,Lesotho,Services,23.9,426,Sub-Saharan Africa,9,1295.960091,29320
+2012,Liberia,Services,43.4,430,Sub-Saharan Africa,9,414.1851554,22693
+2012,Madagascar,Services,16.2,450,Sub-Saharan Africa,9,444.9584938,15949
+2012,Malawi,Services,18.8,454,Sub-Saharan Africa,9,380.9185151,3005
+2012,Mali,Services,28.7,466,Sub-Saharan Africa,9,772.2499217,14142
+2012,Mauritania,Services,35.6,478,Sub-Saharan Africa,9,1385.004682,21444
+2012,Mauritius,Services,64.6,480,Sub-Saharan Africa,9,9291.227619,8546
+2012,Mozambique,Services,19.7,508,Sub-Saharan Africa,9,593.2193071,1381
+2012,Namibia,Services,58.7,516,Sub-Saharan Africa,9,5679.881875,1128
+2012,Niger,Services,31.8,562,Sub-Saharan Africa,9,393.643423,6961
+2012,Nigeria,Services,47.4,566,Sub-Saharan Africa,9,2716.715928,2534
+2012,Rwanda,Services,20.2,646,Sub-Saharan Africa,9,667.4145823,1160
+2012,R¨¦union,Services,81.1,638,Sub-Saharan Africa,9,,1780
+2012,Senegal,Services,47.2,686,Sub-Saharan Africa,9,1030.04451,769
+2012,Sierra Leone,Services,31.6,694,Sub-Saharan Africa,9,629.1186232,1080
+2012,Somalia,Services,20.6,706,Sub-Saharan Africa,9,,825
+2012,South Africa,Services,69.5,710,Sub-Saharan Africa,9,7548.43975,1488
+2012,Swaziland,Services,35.6,748,Sub-Saharan Africa,9,3952.656317,3763
+2012,"Tanzania, United Republic of",Services,21.8,834,Sub-Saharan Africa,9,827.5288808,801
+2012,Togo,Services,39.5,768,Sub-Saharan Africa,9,573.2074765,3649
+2012,Uganda,Services,30.8,800,Sub-Saharan Africa,9,664.0051546,2055
+2012,Zambia,Services,18.8,894,Sub-Saharan Africa,9,1724.764548,1149
+2012,Zimbabwe,Services,24.8,716,Sub-Saharan Africa,9,850.8276966,959
+2012,Australia,Industry,20.5,36,Developed Economies & European Union,1,67646.10385,80166
+2012,Austria,Industry,26.2,40,Developed Economies & European Union,1,48333.57273,90365
+2012,Belgium,Industry,21.8,56,Developed Economies & European Union,1,44740.5717,11546
+2012,Bulgaria,Industry,31.3,100,Developed Economies & European Union,1,7378.025539,28651
+2012,Canada,Industry,19.2,124,Developed Economies & European Union,1,52496.69487,35991
+2012,Croatia,Industry,27.5,191,Developed Economies & European Union,1,13235.97757,30000
+2012,Cyprus,Industry,21.1,196,Developed Economies & European Union,1,28951.15556,95992
+2012,Czech Republic,Industry,38.2,203,Developed Economies & European Union,1,19729.87051,25896
+2012,Denmark,Industry,19.8,208,Developed Economies & European Union,1,58507.50021,83410
+2012,Estonia,Industry,31.3,233,Developed Economies & European Union,1,17421.88799,85132
+2012,Finland,Industry,22.9,246,Developed Economies & European Union,1,47415.55987,75465
+2012,France,Industry,21.9,250,Developed Economies & European Union,1,40838.02444,54715
+2012,Germany,Industry,28.2,276,Developed Economies & European Union,1,44065.24891,27763
+2012,Greece,Industry,16.7,300,Developed Economies & European Union,1,22242.68193,115001
+2012,Hungary,Industry,29.8,348,Developed Economies & European Union,1,12834.32349,75432
+2012,Iceland,Industry,18.3,352,Developed Economies & European Union,1,44333.85018,18911
+2012,Ireland,Industry,18.4,372,Developed Economies & European Union,1,49231.36162,22258
+2012,Israel,Industry,19,376,Developed Economies & European Union,1,32569.59683,177652
+2012,Italy,Industry,27.8,380,Developed Economies & European Union,1,34814.12436,38517
+2012,Japan,Industry,27,392,Developed Economies & European Union,1,48629.19969,80615
+2012,Latvia,Industry,23.6,428,Developed Economies & European Union,1,13799.24488,24673
+2012,Lithuania,Industry,24.9,440,Developed Economies & European Union,1,14348.33936,40380
+2012,Luxembourg,Industry,12.6,442,Developed Economies & European Union,1,106247.7357,11988
+2012,Malta,Industry,22.1,470,Developed Economies & European Union,1,22081.60163,34226
+2012,Netherlands,Industry,16.8,528,Developed Economies & European Union,1,49474.70561,40861
+2012,New Zealand,Industry,19.4,554,Developed Economies & European Union,1,40066.5648,66200
+2012,Norway,Industry,20.2,578,Developed Economies & European Union,1,101563.7027,89861
+2012,Poland,Industry,30.4,616,Developed Economies & European Union,1,13145.10484,80926
+2012,Portugal,Industry,25.7,620,Developed Economies & European Union,1,20577.40264,95408
+2012,Romania,Industry,28.6,642,Developed Economies & European Union,1,8558.397606,127980
+2012,Slovakia,Industry,37.5,703,Developed Economies & European Union,1,17274.6423,99013
+2012,Slovenia,Industry,31.1,705,Developed Economies & European Union,1,22486.47167,70009
+2012,Spain,Industry,20.8,724,Developed Economies & European Union,1,28562.29324,91741
+2012,Sweden,Industry,19.7,752,Developed Economies & European Union,1,57134.07707,73023
+2012,Switzerland,Industry,21,756,Developed Economies & European Union,1,83164.38795,54442
+2012,United Kingdom,Industry,19.2,826,Developed Economies & European Union,1,41538.30726,75639
+2012,United States,Industry,17.9,840,Developed Economies & European Union,1,51433.04709,54822
+2012,Albania,Industry,20.4,8,Central & South Eastern Europe (non-EU) & CIS,2,4247.839852,9588
+2012,Armenia,Industry,18,51,Central & South Eastern Europe (non-EU) & CIS,2,3565.517575,12339
+2012,Azerbaijan,Industry,14.3,31,Central & South Eastern Europe (non-EU) & CIS,2,7393.771877,4734
+2012,Belarus,Industry,35.2,112,Central & South Eastern Europe (non-EU) & CIS,2,6721.483351,14372
+2012,Bosnia and Herzegovina,Industry,30.2,70,Central & South Eastern Europe (non-EU) & CIS,2,4494.64064,8776
+2012,Georgia,Industry,12.6,268,Central & South Eastern Europe (non-EU) & CIS,2,4142.869175,11013
+2012,Kazakhstan,Industry,19.4,398,Central & South Eastern Europe (non-EU) & CIS,2,12387.18982,25562
+2012,Kyrgyzstan,Industry,21.9,417,Central & South Eastern Europe (non-EU) & CIS,2,1177.974735,5475
+2012,Montenegro,Industry,18.2,499,Central & South Eastern Europe (non-EU) & CIS,2,6586.80384,6640
+2012,Republic of Moldova,Industry,19.3,498,Central & South Eastern Europe (non-EU) & CIS,2,2046.536787,10992
+2012,Russian Federation,Industry,25.3,643,Central & South Eastern Europe (non-EU) & CIS,2,15042.19164,10530
+2012,Serbia,Industry,26.5,688,Central & South Eastern Europe (non-EU) & CIS,2,5659.380204,1364
+2012,Tajikistan,Industry,18.3,762,Central & South Eastern Europe (non-EU) & CIS,2,962.4408177,4078
+2012,The former Yugoslav Republic of Macedonia,Industry,29.9,807,Central & South Eastern Europe (non-EU) & CIS,2,4709.511628,13503
+2012,Turkey,Industry,25.9,792,Central & South Eastern Europe (non-EU) & CIS,2,10539.36545,1194
+2012,Turkmenistan,Industry,22.7,795,Central & South Eastern Europe (non-EU) & CIS,2,6797.721166,8405
+2012,Ukraine,Industry,21.7,804,Central & South Eastern Europe (non-EU) & CIS,2,3855.42128,4468
+2012,Uzbekistan,Industry,22.5,860,Central & South Eastern Europe (non-EU) & CIS,2,1740.468298,2273
+2012,China,Industry,30.5,156,East Asia,6,6337.882993,5891
+2012,"Hong Kong, China",Industry,11.6,344,East Asia,6,36707.77423,64943
+2012,"Korea, Democratic People's Republic of",Industry,54.9,408,East Asia,6,,3027
+2012,"Korea, Republic of",Industry,32.7,410,East Asia,6,24453.97191,44112
+2012,"Macau, China",Industry,17,446,East Asia,6,77145.0395,80970
+2012,Mongolia,Industry,18.5,496,East Asia,6,4377.23887,3780
+2012,"Taiwan, China",Industry,36.7,158,East Asia,6,,33162
+2012,Brunei Darussalam,Industry,21,96,South East Asia & the Pacific,4,46973.93793,54286
+2012,Cambodia,Industry,18.6,116,South East Asia & the Pacific,4,946.4766787,1186
+2012,East Timor,Industry,10.1,626,South East Asia & the Pacific,4,1173.240321,3831
+2012,Fiji,Industry,17,242,South East Asia & the Pacific,4,4543.815358,3846
+2012,Indonesia,Industry,21.8,360,South East Asia & the Pacific,4,3700.523525,1435
+2012,Lao People's Democratic Republic,Industry,6.3,418,South East Asia & the Pacific,4,1445.416201,16033
+2012,Malaysia,Industry,28.1,458,South East Asia & the Pacific,4,10834.65908,1589
+2012,Myanmar,Industry,14.1,104,South East Asia & the Pacific,4,1136.786368,3779
+2012,Papua New Guinea,Industry,4.5,598,South East Asia & the Pacific,4,2151.210277,61623
+2012,Philippines,Industry,15.4,608,South East Asia & the Pacific,4,2604.655997,5722
+2012,Singapore,Industry,20,702,South East Asia & the Pacific,4,54451.21033,1557
+2012,Solomon Islands,Industry,13.3,90,South East Asia & the Pacific,4,1866.707969,10064
+2012,Thailand,Industry,20.9,764,South East Asia & the Pacific,4,5915.221147,2476
+2012,Viet Nam,Industry,21.1,704,South East Asia & the Pacific,4,1754.547974,3013
+2012,Afghanistan,Industry,13.8,4,South Asia,5,690.842629,1796
+2012,Bangladesh,Industry,13.7,50,South Asia,5,858.9333626,1273
+2012,Bhutan,Industry,9,64,South Asia,5,2452.151588,4082
+2012,India,Industry,24.7,356,South Asia,5,1446.767109,3006
+2012,Maldives,Industry,23.1,462,South Asia,5,6541.070465,11841
+2012,Nepal,Industry,11.6,524,South Asia,5,698.4098897,765
+2012,Pakistan,Industry,16.8,586,South Asia,5,1264.900909,2372
+2012,Sri Lanka,Industry,20.7,144,South Asia,5,3350.521375,4593
+2012,Argentina,Industry,24,32,Latin America & the Caribbean,3,12970.1739,42198
+2012,Bahamas,Industry,12,44,Latin America & the Caribbean,3,22554.51572,20704
+2012,Barbados,Industry,21,52,Latin America & the Caribbean,3,15385.11637,11374
+2012,Belize,Industry,23.7,84,Latin America & the Caribbean,3,4674.293447,13167
+2012,Bolivia,Industry,21.3,68,Latin America & the Caribbean,3,2645.291999,30181
+2012,Brazil,Industry,21.7,76,Latin America & the Caribbean,3,12179.69062,3712
+2012,Chile,Industry,24,152,Latin America & the Caribbean,3,15253.33083,1166
+2012,Colombia,Industry,21,170,Latin America & the Caribbean,3,7885.061292,10200
+2012,Costa Rica,Industry,19.8,188,Latin America & the Caribbean,3,9985.313797,29582
+2012,Cuba,Industry,17.3,192,Latin America & the Caribbean,3,6448.327553,72245
+2012,Dominican Republic,Industry,16.3,214,Latin America & the Caribbean,3,5968.826218,13031
+2012,Ecuador,Industry,17.8,218,Latin America & the Caribbean,3,5702.168288,29287
+2012,El Salvador,Industry,21.1,222,Latin America & the Caribbean,3,3921.720395,10525
+2012,Guadeloupe,Industry,16.4,312,Latin America & the Caribbean,3,,12959
+2012,Guatemala,Industry,19.4,320,Latin America & the Caribbean,3,3278.626346,7515
+2012,Guyana,Industry,22.9,328,Latin America & the Caribbean,3,3759.383547,5959
+2012,Haiti,Industry,11.9,332,Latin America & the Caribbean,3,766.8721739,4104
+2012,Honduras,Industry,20.1,340,Latin America & the Caribbean,3,2378.519569,19854
+2012,Jamaica,Industry,15.5,388,Latin America & the Caribbean,3,5357.443968,3479
+2012,Martinique,Industry,13.9,474,Latin America & the Caribbean,3,,16625
+2012,Mexico,Industry,22.8,484,Latin America & the Caribbean,3,9720.561674,16097
+2012,Nicaragua,Industry,17.2,558,Latin America & the Caribbean,3,1776.209244,2776
+2012,Panama,Industry,18.5,591,Latin America & the Caribbean,3,10672.35895,11659
+2012,Paraguay,Industry,16.4,600,Latin America & the Caribbean,3,3855.572185,20838
+2012,Peru,Industry,17,604,Latin America & the Caribbean,3,6386.374449,9813
+2012,Puerto Rico,Industry,14,630,Latin America & the Caribbean,3,27811.5558,7804
+2012,Suriname,Industry,32.9,740,Latin America & the Caribbean,3,9422.270994,3831
+2012,Trinidad and Tobago,Industry,34.2,780,Latin America & the Caribbean,3,19152.18149,8174
+2012,Uruguay,Industry,20.9,858,Latin America & the Caribbean,3,15092.47206,15684
+2012,Venezuela,Industry,21.3,862,Latin America & the Caribbean,3,12771.59504,15082
+2012,Bahrain,Industry,40.7,48,Middle East,7,23057.76758,27336
+2012,"Iran, Islamic Republic of",Industry,32.7,364,Middle East,7,7710.513314,10771
+2012,Iraq,Industry,19.1,368,Middle East,7,6614.584821,7599
+2012,Jordan,Industry,17.5,400,Middle East,7,4423.117355,10738
+2012,Kuwait,Industry,18.2,414,Middle East,7,50903.9046,60640
+2012,Lebanon,Industry,21.3,422,Middle East,7,8773.931956,19418
+2012,Oman,Industry,41.9,512,Middle East,7,21631.89096,30103
+2012,Qatar,Industry,52.5,634,Middle East,7,92692.64331,72517
+2012,Saudi Arabia,Industry,24.9,682,Middle East,7,24883.18971,50766
+2012,Syrian Arab Republic,Industry,32.6,760,Middle East,7,,7011
+2012,United Arab Emirates,Industry,22.2,784,Middle East,7,41712.39795,36947
+2012,West Bank and Gaza Strip,Industry,26,275,Middle East,7,2787.169741,7356
+2012,Yemen,Industry,14,887,Middle East,7,1422.723779,3292
+2012,Algeria,Industry,28.8,12,North Africa,8,5583.616152,11155
+2012,Egypt,Industry,22,818,North Africa,8,3226.131379,5306
+2012,Libya,Industry,21.4,434,North Africa,8,,20294
+2012,Morocco,Industry,21.4,504,North Africa,8,2931.4002,7575
+2012,Sudan,Industry,8.4,729,North Africa,8,1806.450797,3137
+2012,Tunisia,Industry,34.5,788,North Africa,8,4139.53811,12566
+2012,Angola,Industry,10.7,24,Sub-Saharan Africa,9,5086.848426,364
+2012,Benin,Industry,8.2,204,Sub-Saharan Africa,9,811.2162408,1976
+2012,Botswana,Industry,11.9,72,Sub-Saharan Africa,9,6885.843598,456
+2012,Burkina Faso,Industry,2.6,854,Sub-Saharan Africa,9,673.0625112,569
+2012,Burundi,Industry,2,108,Sub-Saharan Africa,9,244.1964862,1695
+2012,Cameroon,Industry,8.5,120,Sub-Saharan Africa,9,1222.192142,558
+2012,Cape Verde,Industry,7.7,132,Sub-Saharan Africa,9,3497.689697,619
+2012,Central African Republic,Industry,4.1,140,Sub-Saharan Africa,9,472.8182181,16366
+2012,Chad,Industry,3.6,148,Sub-Saharan Africa,9,972.6794135,989
+2012,Comoros,Industry,9.7,174,Sub-Saharan Africa,9,778.1058844,807
+2012,Congo,Industry,20.5,178,Sub-Saharan Africa,9,3191.164299,2873
+2012,"Congo, Democratic Republic of",Industry,2.5,180,Sub-Saharan Africa,9,390.7066035,1796
+2012,C_te d'Ivoire,Industry,6.2,384,Sub-Saharan Africa,9,1281.382865,989
+2012,Equatorial Guinea,Industry,22.7,226,Sub-Saharan Africa,9,28937.29884,1060
+2012,Eritrea,Industry,5.6,232,Sub-Saharan Africa,9,,2172
+2012,Ethiopia,Industry,9.4,231,Sub-Saharan Africa,9,469.7923039,878
+2012,Gabon,Industry,11.5,266,Sub-Saharan Africa,9,10642.43225,8009
+2012,Gambia,Industry,3.7,270,Sub-Saharan Africa,9,504.9890138,2501
+2012,Ghana,Industry,13.3,288,Sub-Saharan Africa,9,1641.825922,855
+2012,Guinea,Industry,5.6,324,Sub-Saharan Africa,9,487.3457142,1506
+2012,Guinea-Bissau,Industry,4.5,624,Sub-Saharan Africa,9,580.6429369,5181
+2012,Kenya,Industry,7,404,Sub-Saharan Africa,9,1184.923256,453
+2012,Lesotho,Industry,9.6,426,Sub-Saharan Africa,9,1295.960091,29320
+2012,Liberia,Industry,10.3,430,Sub-Saharan Africa,9,414.1851554,22693
+2012,Madagascar,Industry,2.7,450,Sub-Saharan Africa,9,444.9584938,15949
+2012,Malawi,Industry,10.4,454,Sub-Saharan Africa,9,380.9185151,3005
+2012,Mali,Industry,5.2,466,Sub-Saharan Africa,9,772.2499217,14142
+2012,Mauritania,Industry,11.6,478,Sub-Saharan Africa,9,1385.004682,21444
+2012,Mauritius,Industry,27.6,480,Sub-Saharan Africa,9,9291.227619,8546
+2012,Mozambique,Industry,4.7,508,Sub-Saharan Africa,9,593.2193071,1381
+2012,Namibia,Industry,13.9,516,Sub-Saharan Africa,9,5679.881875,1128
+2012,Niger,Industry,10.7,562,Sub-Saharan Africa,9,393.643423,6961
+2012,Nigeria,Industry,12.2,566,Sub-Saharan Africa,9,2716.715928,2534
+2012,Rwanda,Industry,5.1,646,Sub-Saharan Africa,9,667.4145823,1160
+2012,R¨¦union,Industry,14.5,638,Sub-Saharan Africa,9,,1780
+2012,Senegal,Industry,17,686,Sub-Saharan Africa,9,1030.04451,769
+2012,Sierra Leone,Industry,7.2,694,Sub-Saharan Africa,9,629.1186232,1080
+2012,Somalia,Industry,4,706,Sub-Saharan Africa,9,,825
+2012,South Africa,Industry,25.7,710,Sub-Saharan Africa,9,7548.43975,1488
+2012,Swaziland,Industry,30.8,748,Sub-Saharan Africa,9,3952.656317,3763
+2012,"Tanzania, United Republic of",Industry,5.4,834,Sub-Saharan Africa,9,827.5288808,801
+2012,Togo,Industry,6.7,768,Sub-Saharan Africa,9,573.2074765,3649
+2012,Uganda,Industry,7.3,800,Sub-Saharan Africa,9,664.0051546,2055
+2012,Zambia,Industry,9.8,894,Sub-Saharan Africa,9,1724.764548,1149
+2012,Zimbabwe,Industry,9.1,716,Sub-Saharan Africa,9,850.8276966,959
+2012,Australia,Agriculture,2.6,36,Developed Economies & European Union,1,67646.10385,80166
+2012,Austria,Agriculture,5,40,Developed Economies & European Union,1,48333.57273,90365
+2012,Belgium,Agriculture,1.2,56,Developed Economies & European Union,1,44740.5717,11546
+2012,Bulgaria,Agriculture,6.5,100,Developed Economies & European Union,1,7378.025539,28651
+2012,Canada,Agriculture,2.1,124,Developed Economies & European Union,1,52496.69487,35991
+2012,Croatia,Agriculture,13.7,191,Developed Economies & European Union,1,13235.97757,30000
+2012,Cyprus,Agriculture,3,196,Developed Economies & European Union,1,28951.15556,95992
+2012,Czech Republic,Agriculture,3.1,203,Developed Economies & European Union,1,19729.87051,25896
+2012,Denmark,Agriculture,2.6,208,Developed Economies & European Union,1,58507.50021,83410
+2012,Estonia,Agriculture,4.7,233,Developed Economies & European Union,1,17421.88799,85132
+2012,Finland,Agriculture,4.2,246,Developed Economies & European Union,1,47415.55987,75465
+2012,France,Agriculture,3,250,Developed Economies & European Union,1,40838.02444,54715
+2012,Germany,Agriculture,1.6,276,Developed Economies & European Union,1,44065.24891,27763
+2012,Greece,Agriculture,13,300,Developed Economies & European Union,1,22242.68193,115001
+2012,Hungary,Agriculture,5.2,348,Developed Economies & European Union,1,12834.32349,75432
+2012,Iceland,Agriculture,5.6,352,Developed Economies & European Union,1,44333.85018,18911
+2012,Ireland,Agriculture,4.7,372,Developed Economies & European Union,1,49231.36162,22258
+2012,Israel,Agriculture,1.7,376,Developed Economies & European Union,1,32569.59683,177652
+2012,Italy,Agriculture,3.7,380,Developed Economies & European Union,1,34814.12436,38517
+2012,Japan,Agriculture,3.8,392,Developed Economies & European Union,1,48629.19969,80615
+2012,Latvia,Agriculture,8.4,428,Developed Economies & European Union,1,13799.24488,24673
+2012,Lithuania,Agriculture,8.9,440,Developed Economies & European Union,1,14348.33936,40380
+2012,Luxembourg,Agriculture,1.4,442,Developed Economies & European Union,1,106247.7357,11988
+2012,Malta,Agriculture,1.1,470,Developed Economies & European Union,1,22081.60163,34226
+2012,Netherlands,Agriculture,2.6,528,Developed Economies & European Union,1,49474.70561,40861
+2012,New Zealand,Agriculture,6,554,Developed Economies & European Union,1,40066.5648,66200
+2012,Norway,Agriculture,2.3,578,Developed Economies & European Union,1,101563.7027,89861
+2012,Poland,Agriculture,12.6,616,Developed Economies & European Union,1,13145.10484,80926
+2012,Portugal,Agriculture,10.5,620,Developed Economies & European Union,1,20577.40264,95408
+2012,Romania,Agriculture,29,642,Developed Economies & European Union,1,8558.397606,127980
+2012,Slovakia,Agriculture,3.3,703,Developed Economies & European Union,1,17274.6423,99013
+2012,Slovenia,Agriculture,8.4,705,Developed Economies & European Union,1,22486.47167,70009
+2012,Spain,Agriculture,4.4,724,Developed Economies & European Union,1,28562.29324,91741
+2012,Sweden,Agriculture,2.1,752,Developed Economies & European Union,1,57134.07707,73023
+2012,Switzerland,Agriculture,3.7,756,Developed Economies & European Union,1,83164.38795,54442
+2012,United Kingdom,Agriculture,1.2,826,Developed Economies & European Union,1,41538.30726,75639
+2012,United States,Agriculture,1.6,840,Developed Economies & European Union,1,51433.04709,54822
+2012,Albania,Agriculture,39.9,8,Central & South Eastern Europe (non-EU) & CIS,2,4247.839852,9588
+2012,Armenia,Agriculture,38,51,Central & South Eastern Europe (non-EU) & CIS,2,3565.517575,12339
+2012,Azerbaijan,Agriculture,37.7,31,Central & South Eastern Europe (non-EU) & CIS,2,7393.771877,4734
+2012,Belarus,Agriculture,10,112,Central & South Eastern Europe (non-EU) & CIS,2,6721.483351,14372
+2012,Bosnia and Herzegovina,Agriculture,20.6,70,Central & South Eastern Europe (non-EU) & CIS,2,4494.64064,8776
+2012,Georgia,Agriculture,48,268,Central & South Eastern Europe (non-EU) & CIS,2,4142.869175,11013
+2012,Kazakhstan,Agriculture,25.5,398,Central & South Eastern Europe (non-EU) & CIS,2,12387.18982,25562
+2012,Kyrgyzstan,Agriculture,31.7,417,Central & South Eastern Europe (non-EU) & CIS,2,1177.974735,5475
+2012,Montenegro,Agriculture,5.7,499,Central & South Eastern Europe (non-EU) & CIS,2,6586.80384,6640
+2012,Republic of Moldova,Agriculture,26.5,498,Central & South Eastern Europe (non-EU) & CIS,2,2046.536787,10992
+2012,Russian Federation,Agriculture,13.5,643,Central & South Eastern Europe (non-EU) & CIS,2,15042.19164,10530
+2012,Serbia,Agriculture,21,688,Central & South Eastern Europe (non-EU) & CIS,2,5659.380204,1364
+2012,Tajikistan,Agriculture,55.1,762,Central & South Eastern Europe (non-EU) & CIS,2,962.4408177,4078
+2012,The former Yugoslav Republic of Macedonia,Agriculture,17.3,807,Central & South Eastern Europe (non-EU) & CIS,2,4709.511628,13503
+2012,Turkey,Agriculture,23.7,792,Central & South Eastern Europe (non-EU) & CIS,2,10539.36545,1194
+2012,Turkmenistan,Agriculture,34.3,795,Central & South Eastern Europe (non-EU) & CIS,2,6797.721166,8405
+2012,Ukraine,Agriculture,14,804,Central & South Eastern Europe (non-EU) & CIS,2,3855.42128,4468
+2012,Uzbekistan,Agriculture,35.8,860,Central & South Eastern Europe (non-EU) & CIS,2,1740.468298,2273
+2012,China,Agriculture,32.7,156,East Asia,6,6337.882993,5891
+2012,"Hong Kong, China",Agriculture,0.6,344,East Asia,6,36707.77423,64943
+2012,"Korea, Democratic People's Republic of",Agriculture,11.6,408,East Asia,6,,3027
+2012,"Korea, Republic of",Agriculture,6.2,410,East Asia,6,24453.97191,44112
+2012,"Macau, China",Agriculture,0.5,446,East Asia,6,77145.0395,80970
+2012,Mongolia,Agriculture,32.4,496,East Asia,6,4377.23887,3780
+2012,"Taiwan, China",Agriculture,4.9,158,East Asia,6,,33162
+2012,Brunei Darussalam,Agriculture,1.3,96,South East Asia & the Pacific,4,46973.93793,54286
+2012,Cambodia,Agriculture,51,116,South East Asia & the Pacific,4,946.4766787,1186
+2012,East Timor,Agriculture,48,626,South East Asia & the Pacific,4,1173.240321,3831
+2012,Fiji,Agriculture,31.2,242,South East Asia & the Pacific,4,4543.815358,3846
+2012,Indonesia,Agriculture,33.5,360,South East Asia & the Pacific,4,3700.523525,1435
+2012,Lao People's Democratic Republic,Agriculture,74.6,418,South East Asia & the Pacific,4,1445.416201,16033
+2012,Malaysia,Agriculture,12.5,458,South East Asia & the Pacific,4,10834.65908,1589
+2012,Myanmar,Agriculture,58.4,104,South East Asia & the Pacific,4,1136.786368,3779
+2012,Papua New Guinea,Agriculture,70.3,598,South East Asia & the Pacific,4,2151.210277,61623
+2012,Philippines,Agriculture,32.2,608,South East Asia & the Pacific,4,2604.655997,5722
+2012,Singapore,Agriculture,0.9,702,South East Asia & the Pacific,4,54451.21033,1557
+2012,Solomon Islands,Agriculture,49.9,90,South East Asia & the Pacific,4,1866.707969,10064
+2012,Thailand,Agriculture,39.7,764,South East Asia & the Pacific,4,5915.221147,2476
+2012,Viet Nam,Agriculture,47.4,704,South East Asia & the Pacific,4,1754.547974,3013
+2012,Afghanistan,Agriculture,52.8,4,South Asia,5,690.842629,1796
+2012,Bangladesh,Agriculture,54.4,50,South Asia,5,858.9333626,1273
+2012,Bhutan,Agriculture,59.6,64,South Asia,5,2452.151588,4082
+2012,India,Agriculture,47,356,South Asia,5,1446.767109,3006
+2012,Maldives,Agriculture,15.5,462,South Asia,5,6541.070465,11841
+2012,Nepal,Agriculture,71.3,524,South Asia,5,698.4098897,765
+2012,Pakistan,Agriculture,47.4,586,South Asia,5,1264.900909,2372
+2012,Sri Lanka,Agriculture,45.9,144,South Asia,5,3350.521375,4593
+2012,Argentina,Agriculture,0.6,32,Latin America & the Caribbean,3,12970.1739,42198
+2012,Bahamas,Agriculture,4.4,44,Latin America & the Caribbean,3,22554.51572,20704
+2012,Barbados,Agriculture,3,52,Latin America & the Caribbean,3,15385.11637,11374
+2012,Belize,Agriculture,14.1,84,Latin America & the Caribbean,3,4674.293447,13167
+2012,Bolivia,Agriculture,28.6,68,Latin America & the Caribbean,3,2645.291999,30181
+2012,Brazil,Agriculture,14.4,76,Latin America & the Caribbean,3,12179.69062,3712
+2012,Chile,Agriculture,10,152,Latin America & the Caribbean,3,15253.33083,1166
+2012,Colombia,Agriculture,17.1,170,Latin America & the Caribbean,3,7885.061292,10200
+2012,Costa Rica,Agriculture,13.8,188,Latin America & the Caribbean,3,9985.313797,29582
+2012,Cuba,Agriculture,21,192,Latin America & the Caribbean,3,6448.327553,72245
+2012,Dominican Republic,Agriculture,14.1,214,Latin America & the Caribbean,3,5968.826218,13031
+2012,Ecuador,Agriculture,27.8,218,Latin America & the Caribbean,3,5702.168288,29287
+2012,El Salvador,Agriculture,20.8,222,Latin America & the Caribbean,3,3921.720395,10525
+2012,Guadeloupe,Agriculture,4,312,Latin America & the Caribbean,3,,12959
+2012,Guatemala,Agriculture,32,320,Latin America & the Caribbean,3,3278.626346,7515
+2012,Guyana,Agriculture,28.1,328,Latin America & the Caribbean,3,3759.383547,5959
+2012,Haiti,Agriculture,44.1,332,Latin America & the Caribbean,3,766.8721739,4104
+2012,Honduras,Agriculture,33.9,340,Latin America & the Caribbean,3,2378.519569,19854
+2012,Jamaica,Agriculture,18.1,388,Latin America & the Caribbean,3,5357.443968,3479
+2012,Martinique,Agriculture,4.6,474,Latin America & the Caribbean,3,,16625
+2012,Mexico,Agriculture,13.5,484,Latin America & the Caribbean,3,9720.561674,16097
+2012,Nicaragua,Agriculture,25.5,558,Latin America & the Caribbean,3,1776.209244,2776
+2012,Panama,Agriculture,17,591,Latin America & the Caribbean,3,10672.35895,11659
+2012,Paraguay,Agriculture,27.3,600,Latin America & the Caribbean,3,3855.572185,20838
+2012,Peru,Agriculture,25.7,604,Latin America & the Caribbean,3,6386.374449,9813
+2012,Puerto Rico,Agriculture,1.6,630,Latin America & the Caribbean,3,27811.5558,7804
+2012,Suriname,Agriculture,8.5,740,Latin America & the Caribbean,3,9422.270994,3831
+2012,Trinidad and Tobago,Agriculture,4.1,780,Latin America & the Caribbean,3,19152.18149,8174
+2012,Uruguay,Agriculture,10,858,Latin America & the Caribbean,3,15092.47206,15684
+2012,Venezuela,Agriculture,7.8,862,Latin America & the Caribbean,3,12771.59504,15082
+2012,Bahrain,Agriculture,1.2,48,Middle East,7,23057.76758,27336
+2012,"Iran, Islamic Republic of",Agriculture,18.7,364,Middle East,7,7710.513314,10771
+2012,Iraq,Agriculture,19,368,Middle East,7,6614.584821,7599
+2012,Jordan,Agriculture,2.1,400,Middle East,7,4423.117355,10738
+2012,Kuwait,Agriculture,0,414,Middle East,7,50903.9046,60640
+2012,Lebanon,Agriculture,6,422,Middle East,7,8773.931956,19418
+2012,Oman,Agriculture,4.5,512,Middle East,7,21631.89096,30103
+2012,Qatar,Agriculture,1.4,634,Middle East,7,92692.64331,72517
+2012,Saudi Arabia,Agriculture,4.7,682,Middle East,7,24883.18971,50766
+2012,Syrian Arab Republic,Agriculture,14.4,760,Middle East,7,,7011
+2012,United Arab Emirates,Agriculture,3.4,784,Middle East,7,41712.39795,36947
+2012,West Bank and Gaza Strip,Agriculture,11.7,275,Middle East,7,2787.169741,7356
+2012,Yemen,Agriculture,44.2,887,Middle East,7,1422.723779,3292
+2012,Algeria,Agriculture,10.1,12,North Africa,8,5583.616152,11155
+2012,Egypt,Agriculture,30.1,818,North Africa,8,3226.131379,5306
+2012,Libya,Agriculture,8.4,434,North Africa,8,,20294
+2012,Morocco,Agriculture,39.2,504,North Africa,8,2931.4002,7575
+2012,Sudan,Agriculture,52.2,729,North Africa,8,1806.450797,3137
+2012,Tunisia,Agriculture,14.9,788,North Africa,8,4139.53811,12566
+2012,Angola,Agriculture,37.1,24,Sub-Saharan Africa,9,5086.848426,364
+2012,Benin,Agriculture,43.6,204,Sub-Saharan Africa,9,811.2162408,1976
+2012,Botswana,Agriculture,34.9,72,Sub-Saharan Africa,9,6885.843598,456
+2012,Burkina Faso,Agriculture,83.6,854,Sub-Saharan Africa,9,673.0625112,569
+2012,Burundi,Agriculture,92,108,Sub-Saharan Africa,9,244.1964862,1695
+2012,Cameroon,Agriculture,64.6,120,Sub-Saharan Africa,9,1222.192142,558
+2012,Cape Verde,Agriculture,44.2,132,Sub-Saharan Africa,9,3497.689697,619
+2012,Central African Republic,Agriculture,72.2,140,Sub-Saharan Africa,9,472.8182181,16366
+2012,Chad,Agriculture,77.6,148,Sub-Saharan Africa,9,972.6794135,989
+2012,Comoros,Agriculture,65.5,174,Sub-Saharan Africa,9,778.1058844,807
+2012,Congo,Agriculture,33.7,178,Sub-Saharan Africa,9,3191.164299,2873
+2012,"Congo, Democratic Republic of",Agriculture,80.8,180,Sub-Saharan Africa,9,390.7066035,1796
+2012,C_te d'Ivoire,Agriculture,58.5,384,Sub-Saharan Africa,9,1281.382865,989
+2012,Equatorial Guinea,Agriculture,32.3,226,Sub-Saharan Africa,9,28937.29884,1060
+2012,Eritrea,Agriculture,78,232,Sub-Saharan Africa,9,,2172
+2012,Ethiopia,Agriculture,75.4,231,Sub-Saharan Africa,9,469.7923039,878
+2012,Gabon,Agriculture,21.1,266,Sub-Saharan Africa,9,10642.43225,8009
+2012,Gambia,Agriculture,64.2,270,Sub-Saharan Africa,9,504.9890138,2501
+2012,Ghana,Agriculture,59.4,288,Sub-Saharan Africa,9,1641.825922,855
+2012,Guinea,Agriculture,73.7,324,Sub-Saharan Africa,9,487.3457142,1506
+2012,Guinea-Bissau,Agriculture,67,624,Sub-Saharan Africa,9,580.6429369,5181
+2012,Kenya,Agriculture,58.5,404,Sub-Saharan Africa,9,1184.923256,453
+2012,Lesotho,Agriculture,66.6,426,Sub-Saharan Africa,9,1295.960091,29320
+2012,Liberia,Agriculture,46.4,430,Sub-Saharan Africa,9,414.1851554,22693
+2012,Madagascar,Agriculture,81.1,450,Sub-Saharan Africa,9,444.9584938,15949
+2012,Malawi,Agriculture,70.8,454,Sub-Saharan Africa,9,380.9185151,3005
+2012,Mali,Agriculture,66.1,466,Sub-Saharan Africa,9,772.2499217,14142
+2012,Mauritania,Agriculture,52.8,478,Sub-Saharan Africa,9,1385.004682,21444
+2012,Mauritius,Agriculture,7.9,480,Sub-Saharan Africa,9,9291.227619,8546
+2012,Mozambique,Agriculture,75.7,508,Sub-Saharan Africa,9,593.2193071,1381
+2012,Namibia,Agriculture,27.4,516,Sub-Saharan Africa,9,5679.881875,1128
+2012,Niger,Agriculture,57.5,562,Sub-Saharan Africa,9,393.643423,6961
+2012,Nigeria,Agriculture,40.4,566,Sub-Saharan Africa,9,2716.715928,2534
+2012,Rwanda,Agriculture,74.7,646,Sub-Saharan Africa,9,667.4145823,1160
+2012,R¨¦union,Agriculture,4.4,638,Sub-Saharan Africa,9,,1780
+2012,Senegal,Agriculture,35.8,686,Sub-Saharan Africa,9,1030.04451,769
+2012,Sierra Leone,Agriculture,61.2,694,Sub-Saharan Africa,9,629.1186232,1080
+2012,Somalia,Agriculture,75.3,706,Sub-Saharan Africa,9,,825
+2012,South Africa,Agriculture,4.7,710,Sub-Saharan Africa,9,7548.43975,1488
+2012,Swaziland,Agriculture,33.6,748,Sub-Saharan Africa,9,3952.656317,3763
+2012,"Tanzania, United Republic of",Agriculture,72.8,834,Sub-Saharan Africa,9,827.5288808,801
+2012,Togo,Agriculture,53.8,768,Sub-Saharan Africa,9,573.2074765,3649
+2012,Uganda,Agriculture,61.8,800,Sub-Saharan Africa,9,664.0051546,2055
+2012,Zambia,Agriculture,71.4,894,Sub-Saharan Africa,9,1724.764548,1149
+2012,Zimbabwe,Agriculture,66.1,716,Sub-Saharan Africa,9,850.8276966,959

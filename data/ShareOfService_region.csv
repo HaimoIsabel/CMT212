@@ -1,0 +1,841 @@
+Year,Region,Region_id,Gender,Service
+1991,Developed Economies & European Union,1,Total,62.01016235
+1992,Developed Economies & European Union,1,Total,62.69128418
+1993,Developed Economies & European Union,1,Total,63.70997238
+1994,Developed Economies & European Union,1,Total,64.31710815
+1995,Developed Economies & European Union,1,Total,64.73064423
+1996,Developed Economies & European Union,1,Total,65.24511719
+1997,Developed Economies & European Union,1,Total,65.60531616
+1998,Developed Economies & European Union,1,Total,66.06692505
+1999,Developed Economies & European Union,1,Total,66.80859375
+2000,Developed Economies & European Union,1,Total,67.26803589
+2001,Developed Economies & European Union,1,Total,67.88163757
+2002,Developed Economies & European Union,1,Total,68.65753174
+2003,Developed Economies & European Union,1,Total,69.65241241
+2004,Developed Economies & European Union,1,Total,70.19816589
+2005,Developed Economies & European Union,1,Total,70.60883331
+2006,Developed Economies & European Union,1,Total,70.79235077
+2007,Developed Economies & European Union,1,Total,71.07386017
+2008,Developed Economies & European Union,1,Total,71.68716431
+2009,Developed Economies & European Union,1,Total,73.30744934
+2010,Developed Economies & European Union,1,Total,73.87073517
+2011,Developed Economies & European Union,1,Total,73.82435608
+2012,Developed Economies & European Union,1,Total,73.85593414
+2013,Developed Economies & European Union,1,Total,73.89916992
+2014,Developed Economies & European Union,1,Total,74.0459671
+2015,Developed Economies & European Union,1,Total,74.18910217
+2016,Developed Economies & European Union,1,Total,74.3248291
+2017,Developed Economies & European Union,1,Total,74.46231079
+2018,Developed Economies & European Union,1,Total,74.59918976
+1991,Developed Economies & European Union,1,Male,53.17929459
+1992,Developed Economies & European Union,1,Male,53.70320511
+1993,Developed Economies & European Union,1,Male,54.62269211
+1994,Developed Economies & European Union,1,Male,55.20856476
+1995,Developed Economies & European Union,1,Male,55.51425934
+1996,Developed Economies & European Union,1,Male,55.93930054
+1997,Developed Economies & European Union,1,Male,56.17192841
+1998,Developed Economies & European Union,1,Male,56.50916672
+1999,Developed Economies & European Union,1,Male,57.16698837
+2000,Developed Economies & European Union,1,Male,57.56186295
+2001,Developed Economies & European Union,1,Male,58.11559296
+2002,Developed Economies & European Union,1,Male,58.654953
+2003,Developed Economies & European Union,1,Male,59.65786743
+2004,Developed Economies & European Union,1,Male,60.11452484
+2005,Developed Economies & European Union,1,Male,60.42041016
+2006,Developed Economies & European Union,1,Male,60.43821335
+2007,Developed Economies & European Union,1,Male,60.67725372
+2008,Developed Economies & European Union,1,Male,61.20438385
+2009,Developed Economies & European Union,1,Male,63.01161957
+2010,Developed Economies & European Union,1,Male,63.60263062
+2011,Developed Economies & European Union,1,Male,63.60088348
+2012,Developed Economies & European Union,1,Male,63.64506149
+2013,Developed Economies & European Union,1,Male,63.70175171
+2014,Developed Economies & European Union,1,Male,63.8887825
+2015,Developed Economies & European Union,1,Male,64.08773041
+2016,Developed Economies & European Union,1,Male,64.28248596
+2017,Developed Economies & European Union,1,Male,64.47632599
+2018,Developed Economies & European Union,1,Male,64.6652298
+1991,Developed Economies & European Union,1,Female,73.95825195
+1992,Developed Economies & European Union,1,Female,74.75048828
+1993,Developed Economies & European Union,1,Female,75.84745026
+1994,Developed Economies & European Union,1,Female,76.38014221
+1995,Developed Economies & European Union,1,Female,76.90677643
+1996,Developed Economies & European Union,1,Female,77.46073151
+1997,Developed Economies & European Union,1,Female,77.9168396
+1998,Developed Economies & European Union,1,Female,78.48525238
+1999,Developed Economies & European Union,1,Female,79.22917938
+2000,Developed Economies & European Union,1,Female,79.71995544
+2001,Developed Economies & European Union,1,Female,80.30386353
+2002,Developed Economies & European Union,1,Female,81.30844879
+2003,Developed Economies & European Union,1,Female,82.1674881
+2004,Developed Economies & European Union,1,Female,82.80664825
+2005,Developed Economies & European Union,1,Female,83.31678772
+2006,Developed Economies & European Union,1,Female,83.64497375
+2007,Developed Economies & European Union,1,Female,83.93257904
+2008,Developed Economies & European Union,1,Female,84.5422287
+2009,Developed Economies & European Union,1,Female,85.67012787
+2010,Developed Economies & European Union,1,Female,86.14808655
+2011,Developed Economies & European Union,1,Female,86.11252594
+2012,Developed Economies & European Union,1,Female,86.11795044
+2013,Developed Economies & European Union,1,Female,86.14746094
+2014,Developed Economies & European Union,1,Female,86.25837708
+2015,Developed Economies & European Union,1,Female,86.3502121
+2016,Developed Economies & European Union,1,Female,86.42757416
+2017,Developed Economies & European Union,1,Female,86.5062027
+2018,Developed Economies & European Union,1,Female,86.58436584
+1991,Central & South Eastern Europe (non-EU) & CIS,2,Total,41.81477356
+1992,Central & South Eastern Europe (non-EU) & CIS,2,Total,43.27129745
+1993,Central & South Eastern Europe (non-EU) & CIS,2,Total,44.63734436
+1994,Central & South Eastern Europe (non-EU) & CIS,2,Total,45.2564888
+1995,Central & South Eastern Europe (non-EU) & CIS,2,Total,46.3707695
+1996,Central & South Eastern Europe (non-EU) & CIS,2,Total,47.38171005
+1997,Central & South Eastern Europe (non-EU) & CIS,2,Total,48.39080048
+1998,Central & South Eastern Europe (non-EU) & CIS,2,Total,49.096241
+1999,Central & South Eastern Europe (non-EU) & CIS,2,Total,48.56913376
+2000,Central & South Eastern Europe (non-EU) & CIS,2,Total,49.63498306
+2001,Central & South Eastern Europe (non-EU) & CIS,2,Total,50.58296204
+2002,Central & South Eastern Europe (non-EU) & CIS,2,Total,51.53951263
+2003,Central & South Eastern Europe (non-EU) & CIS,2,Total,51.81039047
+2004,Central & South Eastern Europe (non-EU) & CIS,2,Total,52.70248795
+2005,Central & South Eastern Europe (non-EU) & CIS,2,Total,53.19090652
+2006,Central & South Eastern Europe (non-EU) & CIS,2,Total,53.99939346
+2007,Central & South Eastern Europe (non-EU) & CIS,2,Total,55.13241959
+2008,Central & South Eastern Europe (non-EU) & CIS,2,Total,55.60692596
+2009,Central & South Eastern Europe (non-EU) & CIS,2,Total,56.1063118
+2010,Central & South Eastern Europe (non-EU) & CIS,2,Total,56.08002853
+2011,Central & South Eastern Europe (non-EU) & CIS,2,Total,55.9105072
+2012,Central & South Eastern Europe (non-EU) & CIS,2,Total,55.90267563
+2013,Central & South Eastern Europe (non-EU) & CIS,2,Total,54.57429886
+2014,Central & South Eastern Europe (non-EU) & CIS,2,Total,54.73033142
+2015,Central & South Eastern Europe (non-EU) & CIS,2,Total,54.88932419
+2016,Central & South Eastern Europe (non-EU) & CIS,2,Total,55.05877304
+2017,Central & South Eastern Europe (non-EU) & CIS,2,Total,55.23353577
+2018,Central & South Eastern Europe (non-EU) & CIS,2,Total,55.41249466
+1991,Central & South Eastern Europe (non-EU) & CIS,2,Male,36.21903229
+1992,Central & South Eastern Europe (non-EU) & CIS,2,Male,37.44264603
+1993,Central & South Eastern Europe (non-EU) & CIS,2,Male,38.46837616
+1994,Central & South Eastern Europe (non-EU) & CIS,2,Male,39.33047104
+1995,Central & South Eastern Europe (non-EU) & CIS,2,Male,40.39425278
+1996,Central & South Eastern Europe (non-EU) & CIS,2,Male,41.41679764
+1997,Central & South Eastern Europe (non-EU) & CIS,2,Male,42.20572662
+1998,Central & South Eastern Europe (non-EU) & CIS,2,Male,43.04793549
+1999,Central & South Eastern Europe (non-EU) & CIS,2,Male,43.02651596
+2000,Central & South Eastern Europe (non-EU) & CIS,2,Male,43.84252167
+2001,Central & South Eastern Europe (non-EU) & CIS,2,Male,44.76984406
+2002,Central & South Eastern Europe (non-EU) & CIS,2,Male,45.61414719
+2003,Central & South Eastern Europe (non-EU) & CIS,2,Male,45.14956284
+2004,Central & South Eastern Europe (non-EU) & CIS,2,Male,45.8418045
+2005,Central & South Eastern Europe (non-EU) & CIS,2,Male,46.13792419
+2006,Central & South Eastern Europe (non-EU) & CIS,2,Male,46.64201355
+2007,Central & South Eastern Europe (non-EU) & CIS,2,Male,47.66280365
+2008,Central & South Eastern Europe (non-EU) & CIS,2,Male,47.88152313
+2009,Central & South Eastern Europe (non-EU) & CIS,2,Male,49.05963516
+2010,Central & South Eastern Europe (non-EU) & CIS,2,Male,49.8983345
+2011,Central & South Eastern Europe (non-EU) & CIS,2,Male,50.20988846
+2012,Central & South Eastern Europe (non-EU) & CIS,2,Male,50.70812225
+2013,Central & South Eastern Europe (non-EU) & CIS,2,Male,48.80293274
+2014,Central & South Eastern Europe (non-EU) & CIS,2,Male,49.03284073
+2015,Central & South Eastern Europe (non-EU) & CIS,2,Male,49.28096771
+2016,Central & South Eastern Europe (non-EU) & CIS,2,Male,49.53214645
+2017,Central & South Eastern Europe (non-EU) & CIS,2,Male,49.78794861
+2018,Central & South Eastern Europe (non-EU) & CIS,2,Male,50.04968262
+1991,Central & South Eastern Europe (non-EU) & CIS,2,Female,48.57855988
+1992,Central & South Eastern Europe (non-EU) & CIS,2,Female,50.38365936
+1993,Central & South Eastern Europe (non-EU) & CIS,2,Female,52.31242752
+1994,Central & South Eastern Europe (non-EU) & CIS,2,Female,52.60935974
+1995,Central & South Eastern Europe (non-EU) & CIS,2,Female,53.80502319
+1996,Central & South Eastern Europe (non-EU) & CIS,2,Female,54.80704117
+1997,Central & South Eastern Europe (non-EU) & CIS,2,Female,56.12440491
+1998,Central & South Eastern Europe (non-EU) & CIS,2,Female,56.65229416
+1999,Central & South Eastern Europe (non-EU) & CIS,2,Female,55.36299133
+2000,Central & South Eastern Europe (non-EU) & CIS,2,Female,56.77286148
+2001,Central & South Eastern Europe (non-EU) & CIS,2,Female,57.70540619
+2002,Central & South Eastern Europe (non-EU) & CIS,2,Female,58.67102432
+2003,Central & South Eastern Europe (non-EU) & CIS,2,Female,59.80932617
+2004,Central & South Eastern Europe (non-EU) & CIS,2,Female,61.04279709
+2005,Central & South Eastern Europe (non-EU) & CIS,2,Female,61.79066467
+2006,Central & South Eastern Europe (non-EU) & CIS,2,Female,62.92892075
+2007,Central & South Eastern Europe (non-EU) & CIS,2,Female,64.20410919
+2008,Central & South Eastern Europe (non-EU) & CIS,2,Female,65.04750061
+2009,Central & South Eastern Europe (non-EU) & CIS,2,Female,64.62985229
+2010,Central & South Eastern Europe (non-EU) & CIS,2,Female,63.61855316
+2011,Central & South Eastern Europe (non-EU) & CIS,2,Female,62.87389374
+2012,Central & South Eastern Europe (non-EU) & CIS,2,Female,62.23917389
+2013,Central & South Eastern Europe (non-EU) & CIS,2,Female,61.62118912
+2014,Central & South Eastern Europe (non-EU) & CIS,2,Female,61.69906235
+2015,Central & South Eastern Europe (non-EU) & CIS,2,Female,61.76387024
+2016,Central & South Eastern Europe (non-EU) & CIS,2,Female,61.84653854
+2017,Central & South Eastern Europe (non-EU) & CIS,2,Female,61.93575668
+2018,Central & South Eastern Europe (non-EU) & CIS,2,Female,62.02605438
+1991,Latin America & the Caribbean,3,Total,52.56431961
+1992,Latin America & the Caribbean,3,Total,52.34998703
+1993,Latin America & the Caribbean,3,Total,52.77536011
+1994,Latin America & the Caribbean,3,Total,53.68240738
+1995,Latin America & the Caribbean,3,Total,54.73662567
+1996,Latin America & the Caribbean,3,Total,55.62147141
+1997,Latin America & the Caribbean,3,Total,55.60400391
+1998,Latin America & the Caribbean,3,Total,56.4995842
+1999,Latin America & the Caribbean,3,Total,56.36504364
+2000,Latin America & the Caribbean,3,Total,57.26802063
+2001,Latin America & the Caribbean,3,Total,58.2301178
+2002,Latin America & the Caribbean,3,Total,58.24609756
+2003,Latin America & the Caribbean,3,Total,58.69678116
+2004,Latin America & the Caribbean,3,Total,58.78141022
+2005,Latin America & the Caribbean,3,Total,58.84671021
+2006,Latin America & the Caribbean,3,Total,59.36341858
+2007,Latin America & the Caribbean,3,Total,60.02690506
+2008,Latin America & the Caribbean,3,Total,60.46998978
+2009,Latin America & the Caribbean,3,Total,60.83058167
+2010,Latin America & the Caribbean,3,Total,61.60134125
+2011,Latin America & the Caribbean,3,Total,62.26506424
+2012,Latin America & the Caribbean,3,Total,63.16341019
+2013,Latin America & the Caribbean,3,Total,63.54379272
+2014,Latin America & the Caribbean,3,Total,63.7151413
+2015,Latin America & the Caribbean,3,Total,63.88792419
+2016,Latin America & the Caribbean,3,Total,64.04965973
+2017,Latin America & the Caribbean,3,Total,64.21372223
+2018,Latin America & the Caribbean,3,Total,64.37831879
+1991,Latin America & the Caribbean,3,Male,43.6730423
+1992,Latin America & the Caribbean,3,Male,43.71833801
+1993,Latin America & the Caribbean,3,Male,44.16395569
+1994,Latin America & the Caribbean,3,Male,44.81618881
+1995,Latin America & the Caribbean,3,Male,45.68008423
+1996,Latin America & the Caribbean,3,Male,46.53782272
+1997,Latin America & the Caribbean,3,Male,46.51895905
+1998,Latin America & the Caribbean,3,Male,47.32513046
+1999,Latin America & the Caribbean,3,Male,47.24277878
+2000,Latin America & the Caribbean,3,Male,47.98229599
+2001,Latin America & the Caribbean,3,Male,48.78219223
+2002,Latin America & the Caribbean,3,Male,49.04097748
+2003,Latin America & the Caribbean,3,Male,49.5166893
+2004,Latin America & the Caribbean,3,Male,49.43473816
+2005,Latin America & the Caribbean,3,Male,49.33685684
+2006,Latin America & the Caribbean,3,Male,49.60897064
+2007,Latin America & the Caribbean,3,Male,50.03611755
+2008,Latin America & the Caribbean,3,Male,50.3275032
+2009,Latin America & the Caribbean,3,Male,50.54094696
+2010,Latin America & the Caribbean,3,Male,51.22528458
+2011,Latin America & the Caribbean,3,Male,51.65078354
+2012,Latin America & the Caribbean,3,Male,52.38560486
+2013,Latin America & the Caribbean,3,Male,52.67770767
+2014,Latin America & the Caribbean,3,Male,52.85095596
+2015,Latin America & the Caribbean,3,Male,53.03797531
+2016,Latin America & the Caribbean,3,Male,53.22268677
+2017,Latin America & the Caribbean,3,Male,53.41239929
+2018,Latin America & the Caribbean,3,Male,53.6044426
+1991,Latin America & the Caribbean,3,Female,70.23491669
+1992,Latin America & the Caribbean,3,Female,68.54589081
+1993,Latin America & the Caribbean,3,Female,68.76512909
+1994,Latin America & the Caribbean,3,Female,69.75853729
+1995,Latin America & the Caribbean,3,Female,70.77462006
+1996,Latin America & the Caribbean,3,Female,71.736763
+1997,Latin America & the Caribbean,3,Female,71.33403015
+1998,Latin America & the Caribbean,3,Female,72.20510864
+1999,Latin America & the Caribbean,3,Female,71.6084137
+2000,Latin America & the Caribbean,3,Female,72.6552124
+2001,Latin America & the Caribbean,3,Female,73.57254791
+2002,Latin America & the Caribbean,3,Female,72.91139221
+2003,Latin America & the Caribbean,3,Female,73.24786377
+2004,Latin America & the Caribbean,3,Female,73.34233093
+2005,Latin America & the Caribbean,3,Female,73.4471283
+2006,Latin America & the Caribbean,3,Female,74.22558594
+2007,Latin America & the Caribbean,3,Female,75.09120178
+2008,Latin America & the Caribbean,3,Female,75.64418793
+2009,Latin America & the Caribbean,3,Female,76.01125336
+2010,Latin America & the Caribbean,3,Female,76.79110718
+2011,Latin America & the Caribbean,3,Female,77.72479248
+2012,Latin America & the Caribbean,3,Female,78.73660278
+2013,Latin America & the Caribbean,3,Female,79.19416046
+2014,Latin America & the Caribbean,3,Female,79.32935333
+2015,Latin America & the Caribbean,3,Female,79.45053864
+2016,Latin America & the Caribbean,3,Female,79.55409241
+2017,Latin America & the Caribbean,3,Female,79.65727997
+2018,Latin America & the Caribbean,3,Female,79.75989532
+1991,South East Asia & the Pacific,4,Total,27.55445099
+1992,South East Asia & the Pacific,4,Total,27.45667648
+1993,South East Asia & the Pacific,4,Total,28.88199234
+1994,South East Asia & the Pacific,4,Total,29.73444366
+1995,South East Asia & the Pacific,4,Total,31.45876312
+1996,South East Asia & the Pacific,4,Total,32.32749939
+1997,South East Asia & the Pacific,4,Total,33.87569427
+1998,South East Asia & the Pacific,4,Total,34.1729393
+1999,South East Asia & the Pacific,4,Total,34.72144699
+2000,South East Asia & the Pacific,4,Total,33.88796997
+2001,South East Asia & the Pacific,4,Total,34.52197266
+2002,South East Asia & the Pacific,4,Total,34.45684433
+2003,South East Asia & the Pacific,4,Total,34.51206207
+2004,South East Asia & the Pacific,4,Total,36.07756424
+2005,South East Asia & the Pacific,4,Total,35.96978378
+2006,South East Asia & the Pacific,4,Total,37.1242485
+2007,South East Asia & the Pacific,4,Total,37.64540482
+2008,South East Asia & the Pacific,4,Total,38.24766922
+2009,South East Asia & the Pacific,4,Total,39.08436584
+2010,South East Asia & the Pacific,4,Total,39.90273285
+2011,South East Asia & the Pacific,4,Total,40.40803146
+2012,South East Asia & the Pacific,4,Total,41.05735397
+2013,South East Asia & the Pacific,4,Total,40.47558594
+2014,South East Asia & the Pacific,4,Total,40.95317078
+2015,South East Asia & the Pacific,4,Total,41.42887497
+2016,South East Asia & the Pacific,4,Total,41.90138626
+2017,South East Asia & the Pacific,4,Total,42.37724304
+2018,South East Asia & the Pacific,4,Total,42.85333633
+1991,South East Asia & the Pacific,4,Male,27.11454391
+1992,South East Asia & the Pacific,4,Male,27.39994049
+1993,South East Asia & the Pacific,4,Male,28.56245995
+1994,South East Asia & the Pacific,4,Male,29.19928169
+1995,South East Asia & the Pacific,4,Male,30.68209648
+1996,South East Asia & the Pacific,4,Male,31.73573494
+1997,South East Asia & the Pacific,4,Male,33.02312851
+1998,South East Asia & the Pacific,4,Male,33.19661713
+1999,South East Asia & the Pacific,4,Male,33.30812454
+2000,South East Asia & the Pacific,4,Male,32.9909935
+2001,South East Asia & the Pacific,4,Male,33.24967194
+2002,South East Asia & the Pacific,4,Male,33.10478592
+2003,South East Asia & the Pacific,4,Male,33.24813843
+2004,South East Asia & the Pacific,4,Male,34.59115219
+2005,South East Asia & the Pacific,4,Male,34.26962662
+2006,South East Asia & the Pacific,4,Male,35.0549202
+2007,South East Asia & the Pacific,4,Male,35.62298584
+2008,South East Asia & the Pacific,4,Male,35.90327835
+2009,South East Asia & the Pacific,4,Male,36.57231903
+2010,South East Asia & the Pacific,4,Male,37.93946457
+2011,South East Asia & the Pacific,4,Male,38.39392471
+2012,South East Asia & the Pacific,4,Male,39.06368637
+2013,South East Asia & the Pacific,4,Male,37.76107025
+2014,South East Asia & the Pacific,4,Male,38.20534134
+2015,South East Asia & the Pacific,4,Male,38.65745163
+2016,South East Asia & the Pacific,4,Male,39.10074234
+2017,South East Asia & the Pacific,4,Male,39.54911423
+2018,South East Asia & the Pacific,4,Male,39.99968719
+1991,South East Asia & the Pacific,4,Female,28.15338326
+1992,South East Asia & the Pacific,4,Female,27.534729
+1993,South East Asia & the Pacific,4,Female,29.32338333
+1994,South East Asia & the Pacific,4,Female,30.47272873
+1995,South East Asia & the Pacific,4,Female,32.52650833
+1996,South East Asia & the Pacific,4,Female,33.14068604
+1997,South East Asia & the Pacific,4,Female,35.0498085
+1998,South East Asia & the Pacific,4,Female,35.50245667
+1999,South East Asia & the Pacific,4,Female,36.65294647
+2000,South East Asia & the Pacific,4,Female,35.11272812
+2001,South East Asia & the Pacific,4,Female,36.27795029
+2002,South East Asia & the Pacific,4,Female,36.31568909
+2003,South East Asia & the Pacific,4,Female,36.26870346
+2004,South East Asia & the Pacific,4,Female,38.14406204
+2005,South East Asia & the Pacific,4,Female,38.31088638
+2006,South East Asia & the Pacific,4,Female,39.96930695
+2007,South East Asia & the Pacific,4,Female,40.39137268
+2008,South East Asia & the Pacific,4,Female,41.40754318
+2009,South East Asia & the Pacific,4,Female,42.46739197
+2010,South East Asia & the Pacific,4,Female,42.55501556
+2011,South East Asia & the Pacific,4,Female,43.12152481
+2012,South East Asia & the Pacific,4,Female,43.73871994
+2013,South East Asia & the Pacific,4,Female,44.12555695
+2014,South East Asia & the Pacific,4,Female,44.64597702
+2015,South East Asia & the Pacific,4,Female,45.15301895
+2016,South East Asia & the Pacific,4,Female,45.66592407
+2017,South East Asia & the Pacific,4,Female,46.17975998
+2018,South East Asia & the Pacific,4,Female,46.69126129
+1991,South Asia,5,Total,21.94196129
+1992,South Asia,5,Total,22.23918343
+1993,South Asia,5,Total,22.6910305
+1994,South Asia,5,Total,23.17505646
+1995,South Asia,5,Total,23.72705269
+1996,South Asia,5,Total,24.27182007
+1997,South Asia,5,Total,24.61877632
+1998,South Asia,5,Total,24.71356583
+1999,South Asia,5,Total,24.90942383
+2000,South Asia,5,Total,24.95192909
+2001,South Asia,5,Total,25.38896179
+2002,South Asia,5,Total,26.11406136
+2003,South Asia,5,Total,26.60149193
+2004,South Asia,5,Total,26.85825539
+2005,South Asia,5,Total,27.19659424
+2006,South Asia,5,Total,27.41963577
+2007,South Asia,5,Total,27.57265472
+2008,South Asia,5,Total,27.74162292
+2009,South Asia,5,Total,27.94944382
+2010,South Asia,5,Total,28.12135696
+2011,South Asia,5,Total,28.69421768
+2012,South Asia,5,Total,29.30029106
+2013,South Asia,5,Total,29.91426659
+2014,South Asia,5,Total,30.21396255
+2015,South Asia,5,Total,30.54299927
+2016,South Asia,5,Total,30.90534973
+2017,South Asia,5,Total,31.2782402
+2018,South Asia,5,Total,31.65681076
+1991,South Asia,5,Male,26.20716667
+1992,South Asia,5,Male,26.57277679
+1993,South Asia,5,Male,27.06828117
+1994,South Asia,5,Male,27.59731865
+1995,South Asia,5,Male,28.09633064
+1996,South Asia,5,Male,28.57114029
+1997,South Asia,5,Male,28.97847557
+1998,South Asia,5,Male,29.07112503
+1999,South Asia,5,Male,29.28029823
+2000,South Asia,5,Male,29.30789757
+2001,South Asia,5,Male,29.73423195
+2002,South Asia,5,Male,30.53684807
+2003,South Asia,5,Male,30.98613548
+2004,South Asia,5,Male,31.50284767
+2005,South Asia,5,Male,32.03438187
+2006,South Asia,5,Male,32.22908783
+2007,South Asia,5,Male,32.30780792
+2008,South Asia,5,Male,32.42221832
+2009,South Asia,5,Male,32.58287811
+2010,South Asia,5,Male,32.66520691
+2011,South Asia,5,Male,33.16807556
+2012,South Asia,5,Male,33.69226837
+2013,South Asia,5,Male,34.29938126
+2014,South Asia,5,Male,34.64832306
+2015,South Asia,5,Male,35.0368576
+2016,South Asia,5,Male,35.45795441
+2017,South Asia,5,Male,35.8927002
+2018,South Asia,5,Male,36.33465195
+1991,South Asia,5,Female,10.99921703
+1992,South Asia,5,Female,11.19849205
+1993,South Asia,5,Female,11.64891624
+1994,South Asia,5,Female,12.07646084
+1995,South Asia,5,Female,12.65665054
+1996,South Asia,5,Female,13.34984589
+1997,South Asia,5,Female,13.53436661
+1998,South Asia,5,Female,13.58235455
+1999,South Asia,5,Female,13.72869873
+2000,South Asia,5,Female,13.80272388
+2001,South Asia,5,Female,14.39301014
+2002,South Asia,5,Female,15.09594727
+2003,South Asia,5,Female,15.84935093
+2004,South Asia,5,Female,15.63946056
+2005,South Asia,5,Female,15.59698296
+2006,South Asia,5,Female,15.64430618
+2007,South Asia,5,Female,15.71054268
+2008,South Asia,5,Female,15.69229126
+2009,South Asia,5,Female,15.70053673
+2010,South Asia,5,Female,15.6961298
+2011,South Asia,5,Female,16.29670906
+2012,South Asia,5,Female,16.98007202
+2013,South Asia,5,Female,17.66789627
+2014,South Asia,5,Female,17.88043213
+2015,South Asia,5,Female,18.09134293
+2016,South Asia,5,Female,18.3364315
+2017,South Asia,5,Female,18.58238792
+2018,South Asia,5,Female,18.82914352
+1991,East Asia,6,Total,20.20362663
+1992,East Asia,6,Total,21.10969353
+1993,East Asia,6,Total,22.50667572
+1994,East Asia,6,Total,24.26720619
+1995,East Asia,6,Total,26.01767159
+1996,East Asia,6,Total,27.22267914
+1997,East Asia,6,Total,27.67682076
+1998,East Asia,6,Total,27.99017334
+1999,East Asia,6,Total,28.25831985
+2000,East Asia,6,Total,28.92826271
+2001,East Asia,6,Total,29.19054985
+2002,East Asia,6,Total,30.08530045
+2003,East Asia,6,Total,30.76244164
+2004,East Asia,6,Total,32.04788208
+2005,East Asia,6,Total,32.84794617
+2006,East Asia,6,Total,33.65125275
+2007,East Asia,6,Total,33.90957642
+2008,East Asia,6,Total,34.72513199
+2009,East Asia,6,Total,35.83453751
+2010,East Asia,6,Total,36.33254623
+2011,East Asia,6,Total,37.18337631
+2012,East Asia,6,Total,38.09255219
+2013,East Asia,6,Total,38.61764526
+2014,East Asia,6,Total,39.40529251
+2015,East Asia,6,Total,40.1800499
+2016,East Asia,6,Total,40.86392212
+2017,East Asia,6,Total,41.54823685
+2018,East Asia,6,Total,42.23268509
+1991,East Asia,6,Male,24.51631737
+1992,East Asia,6,Male,25.32596207
+1993,East Asia,6,Male,26.54417038
+1994,East Asia,6,Male,28.02871132
+1995,East Asia,6,Male,29.4559803
+1996,East Asia,6,Male,30.39505386
+1997,East Asia,6,Male,30.74033356
+1998,East Asia,6,Male,31.05853081
+1999,East Asia,6,Male,31.30304146
+2000,East Asia,6,Male,31.84220123
+2001,East Asia,6,Male,32.05239868
+2002,East Asia,6,Male,32.77969742
+2003,East Asia,6,Male,33.27190018
+2004,East Asia,6,Male,34.16448212
+2005,East Asia,6,Male,34.64217377
+2006,East Asia,6,Male,35.11458969
+2007,East Asia,6,Male,35.19108582
+2008,East Asia,6,Male,35.74922943
+2009,East Asia,6,Male,36.69974518
+2010,East Asia,6,Male,36.96643448
+2011,East Asia,6,Male,37.30063629
+2012,East Asia,6,Male,37.61948013
+2013,East Asia,6,Male,38.0524292
+2014,East Asia,6,Male,38.76888657
+2015,East Asia,6,Male,39.47047424
+2016,East Asia,6,Male,40.11606979
+2017,East Asia,6,Male,40.7647438
+2018,East Asia,6,Male,41.41641617
+1991,East Asia,6,Female,14.88697815
+1992,East Asia,6,Female,15.90224266
+1993,East Asia,6,Female,17.51940155
+1994,East Asia,6,Female,19.62138939
+1995,East Asia,6,Female,21.77452469
+1996,East Asia,6,Female,23.31209946
+1997,East Asia,6,Female,23.90443039
+1998,East Asia,6,Female,24.21516418
+1999,East Asia,6,Female,24.5184288
+2000,East Asia,6,Female,25.35301971
+2001,East Asia,6,Female,25.67192459
+2002,East Asia,6,Female,26.76296616
+2003,East Asia,6,Female,27.65693665
+2004,East Asia,6,Female,29.42063522
+2005,East Asia,6,Female,30.6126194
+2006,East Asia,6,Female,31.82113647
+2007,East Asia,6,Female,32.30020905
+2008,East Asia,6,Female,33.43579102
+2009,East Asia,6,Female,34.74072266
+2010,East Asia,6,Female,35.52733994
+2011,East Asia,6,Female,37.0343399
+2012,East Asia,6,Female,38.69416428
+2013,East Asia,6,Female,39.33735657
+2014,East Asia,6,Female,40.21681213
+2015,East Asia,6,Female,41.0863266
+2016,East Asia,6,Female,41.82078171
+2017,East Asia,6,Female,42.55258179
+2018,East Asia,6,Female,43.28107452
+1991,Middle East,7,Total,51.37579346
+1992,Middle East,7,Total,51.65524292
+1993,Middle East,7,Total,51.85612106
+1994,Middle East,7,Total,52.26179886
+1995,Middle East,7,Total,52.43096542
+1996,Middle East,7,Total,52.43968582
+1997,Middle East,7,Total,52.4148941
+1998,Middle East,7,Total,52.40118408
+1999,Middle East,7,Total,52.6949501
+2000,Middle East,7,Total,53.17414856
+2001,Middle East,7,Total,53.03840256
+2002,Middle East,7,Total,53.36872482
+2003,Middle East,7,Total,53.51531982
+2004,Middle East,7,Total,53.5620842
+2005,Middle East,7,Total,54.0438652
+2006,Middle East,7,Total,54.76979065
+2007,Middle East,7,Total,55.21487045
+2008,Middle East,7,Total,56.74062347
+2009,Middle East,7,Total,57.50525284
+2010,Middle East,7,Total,57.97164154
+2011,Middle East,7,Total,58.09180069
+2012,Middle East,7,Total,57.89509583
+2013,Middle East,7,Total,57.74712372
+2014,Middle East,7,Total,57.87391663
+2015,Middle East,7,Total,58.00687408
+2016,Middle East,7,Total,58.14660645
+2017,Middle East,7,Total,58.2925148
+2018,Middle East,7,Total,58.44329071
+1991,Middle East,7,Male,51.1394043
+1992,Middle East,7,Male,51.54397202
+1993,Middle East,7,Male,51.82424927
+1994,Middle East,7,Male,52.11130524
+1995,Middle East,7,Male,52.29441452
+1996,Middle East,7,Male,52.38809586
+1997,Middle East,7,Male,52.34498215
+1998,Middle East,7,Male,52.31339645
+1999,Middle East,7,Male,52.63583755
+2000,Middle East,7,Male,53.20787048
+2001,Middle East,7,Male,53.14581299
+2002,Middle East,7,Male,53.5765686
+2003,Middle East,7,Male,53.80579758
+2004,Middle East,7,Male,53.99630356
+2005,Middle East,7,Male,54.41726685
+2006,Middle East,7,Male,55.16732025
+2007,Middle East,7,Male,55.43787003
+2008,Middle East,7,Male,56.59301376
+2009,Middle East,7,Male,57.08854675
+2010,Middle East,7,Male,57.32686234
+2011,Middle East,7,Male,57.33125687
+2012,Middle East,7,Male,57.08400726
+2013,Middle East,7,Male,56.83419037
+2014,Middle East,7,Male,56.97648621
+2015,Middle East,7,Male,57.13357925
+2016,Middle East,7,Male,57.30532074
+2017,Middle East,7,Male,57.48897171
+2018,Middle East,7,Male,57.68196106
+1991,Middle East,7,Female,53.18986511
+1992,Middle East,7,Female,52.49551773
+1993,Middle East,7,Female,52.08683777
+1994,Middle East,7,Female,53.31388474
+1995,Middle East,7,Female,53.34801102
+1996,Middle East,7,Female,52.78471375
+1997,Middle East,7,Female,52.85934448
+1998,Middle East,7,Female,52.93372726
+1999,Middle East,7,Female,53.03195953
+2000,Middle East,7,Female,52.98264694
+2001,Middle East,7,Female,52.44765091
+2002,Middle East,7,Female,52.25378418
+2003,Middle East,7,Female,52.01016617
+2004,Middle East,7,Female,51.35193634
+2005,Middle East,7,Female,52.18327713
+2006,Middle East,7,Female,52.75215912
+2007,Middle East,7,Female,54.07295227
+2008,Middle East,7,Female,57.53053284
+2009,Middle East,7,Female,59.72206116
+2010,Middle East,7,Female,61.45485687
+2011,Middle East,7,Female,62.16970825
+2012,Middle East,7,Female,62.23124695
+2013,Middle East,7,Female,62.58483505
+2014,Middle East,7,Female,62.59892273
+2015,Middle East,7,Female,62.58140564
+2016,Middle East,7,Female,62.53616333
+2017,Middle East,7,Female,62.47309113
+2018,Middle East,7,Female,62.39594269
+1991,North Africa,8,Total,43.38063812
+1992,North Africa,8,Total,41.98973083
+1993,North Africa,8,Total,43.22053146
+1994,North Africa,8,Total,43.4477005
+1995,North Africa,8,Total,43.80122375
+1996,North Africa,8,Total,44.29485703
+1997,North Africa,8,Total,44.44473267
+1998,North Africa,8,Total,45.48017502
+1999,North Africa,8,Total,45.99430084
+2000,North Africa,8,Total,46.14553833
+2001,North Africa,8,Total,46.85766602
+2002,North Africa,8,Total,47.53487015
+2003,North Africa,8,Total,47.04831696
+2004,North Africa,8,Total,45.75397873
+2005,North Africa,8,Total,45.83721542
+2006,North Africa,8,Total,45.84969711
+2007,North Africa,8,Total,45.8539505
+2008,North Africa,8,Total,45.89585876
+2009,North Africa,8,Total,46.33850479
+2010,North Africa,8,Total,46.22838211
+2011,North Africa,8,Total,47.30430984
+2012,North Africa,8,Total,48.32503891
+2013,North Africa,8,Total,48.89245224
+2014,North Africa,8,Total,49.10475922
+2015,North Africa,8,Total,49.3282547
+2016,North Africa,8,Total,49.55704117
+2017,North Africa,8,Total,49.78339767
+2018,North Africa,8,Total,50.01231384
+1991,North Africa,8,Male,44.44285583
+1992,North Africa,8,Male,43.38156891
+1993,North Africa,8,Male,44.02419281
+1994,North Africa,8,Male,44.23739624
+1995,North Africa,8,Male,44.4203186
+1996,North Africa,8,Male,44.883461
+1997,North Africa,8,Male,45.01340866
+1998,North Africa,8,Male,45.85943985
+1999,North Africa,8,Male,46.27710724
+2000,North Africa,8,Male,46.68328094
+2001,North Africa,8,Male,46.86584091
+2002,North Africa,8,Male,47.35033798
+2003,North Africa,8,Male,47.33316803
+2004,North Africa,8,Male,46.79573441
+2005,North Africa,8,Male,46.67818832
+2006,North Africa,8,Male,46.28661728
+2007,North Africa,8,Male,46.38776779
+2008,North Africa,8,Male,46.05116653
+2009,North Africa,8,Male,46.44269562
+2010,North Africa,8,Male,46.11183929
+2011,North Africa,8,Male,47.06342316
+2012,North Africa,8,Male,48.13080978
+2013,North Africa,8,Male,48.72106934
+2014,North Africa,8,Male,48.93480301
+2015,North Africa,8,Male,49.1684494
+2016,North Africa,8,Male,49.40095901
+2017,North Africa,8,Male,49.63326263
+2018,North Africa,8,Male,49.87226486
+1991,North Africa,8,Female,39.08092117
+1992,North Africa,8,Female,36.54124832
+1993,North Africa,8,Female,39.93756485
+1994,North Africa,8,Female,40.30200577
+1995,North Africa,8,Female,41.29767227
+1996,North Africa,8,Female,41.97364426
+1997,North Africa,8,Female,42.21815491
+1998,North Africa,8,Female,43.99501419
+1999,North Africa,8,Female,44.90091324
+2000,North Africa,8,Female,44.04733658
+2001,North Africa,8,Female,46.82518005
+2002,North Africa,8,Female,48.28939438
+2003,North Africa,8,Female,45.92522049
+2004,North Africa,8,Female,41.82725525
+2005,North Africa,8,Female,42.61931229
+2006,North Africa,8,Female,44.23000717
+2007,North Africa,8,Female,43.99023056
+2008,North Africa,8,Female,45.352314
+2009,North Africa,8,Female,45.96988297
+2010,North Africa,8,Female,46.6364212
+2011,North Africa,8,Female,48.15704346
+2012,North Africa,8,Female,49.01332092
+2013,North Africa,8,Female,49.49801254
+2014,North Africa,8,Female,49.70254135
+2015,North Africa,8,Female,49.88781738
+2016,North Africa,8,Female,50.10097885
+2017,North Africa,8,Female,50.30413055
+2018,North Africa,8,Female,50.49570084
+1991,Sub-Saharan Africa,9,Total,24.74060631
+1992,Sub-Saharan Africa,9,Total,24.82714081
+1993,Sub-Saharan Africa,9,Total,24.68336487
+1994,Sub-Saharan Africa,9,Total,24.88466263
+1995,Sub-Saharan Africa,9,Total,25.27042961
+1996,Sub-Saharan Africa,9,Total,25.45894814
+1997,Sub-Saharan Africa,9,Total,25.73064041
+1998,Sub-Saharan Africa,9,Total,25.93766403
+1999,Sub-Saharan Africa,9,Total,26.13970947
+2000,Sub-Saharan Africa,9,Total,26.34917259
+2001,Sub-Saharan Africa,9,Total,26.73112869
+2002,Sub-Saharan Africa,9,Total,26.70932388
+2003,Sub-Saharan Africa,9,Total,27.09630203
+2004,Sub-Saharan Africa,9,Total,27.45189476
+2005,Sub-Saharan Africa,9,Total,27.97019958
+2006,Sub-Saharan Africa,9,Total,28.4149189
+2007,Sub-Saharan Africa,9,Total,28.72575569
+2008,Sub-Saharan Africa,9,Total,29.19633675
+2009,Sub-Saharan Africa,9,Total,29.28524017
+2010,Sub-Saharan Africa,9,Total,29.51094818
+2011,Sub-Saharan Africa,9,Total,29.7434597
+2012,Sub-Saharan Africa,9,Total,30.01787758
+2013,Sub-Saharan Africa,9,Total,29.85944176
+2014,Sub-Saharan Africa,9,Total,30.14515305
+2015,Sub-Saharan Africa,9,Total,30.42497253
+2016,Sub-Saharan Africa,9,Total,30.71626282
+2017,Sub-Saharan Africa,9,Total,31.00774193
+2018,Sub-Saharan Africa,9,Total,31.30069542
+1991,Sub-Saharan Africa,9,Male,25.82048798
+1992,Sub-Saharan Africa,9,Male,25.70218849
+1993,Sub-Saharan Africa,9,Male,25.35107613
+1994,Sub-Saharan Africa,9,Male,25.2641468
+1995,Sub-Saharan Africa,9,Male,25.42256546
+1996,Sub-Saharan Africa,9,Male,25.41370392
+1997,Sub-Saharan Africa,9,Male,25.54367256
+1998,Sub-Saharan Africa,9,Male,25.57589722
+1999,Sub-Saharan Africa,9,Male,25.59097481
+2000,Sub-Saharan Africa,9,Male,25.51533318
+2001,Sub-Saharan Africa,9,Male,25.5181179
+2002,Sub-Saharan Africa,9,Male,25.40693665
+2003,Sub-Saharan Africa,9,Male,25.76116943
+2004,Sub-Saharan Africa,9,Male,26.09030914
+2005,Sub-Saharan Africa,9,Male,26.64066124
+2006,Sub-Saharan Africa,9,Male,27.13716316
+2007,Sub-Saharan Africa,9,Male,27.38462448
+2008,Sub-Saharan Africa,9,Male,27.93659782
+2009,Sub-Saharan Africa,9,Male,28.07613373
+2010,Sub-Saharan Africa,9,Male,28.34668922
+2011,Sub-Saharan Africa,9,Male,28.58751488
+2012,Sub-Saharan Africa,9,Male,28.85160828
+2013,Sub-Saharan Africa,9,Male,28.35413361
+2014,Sub-Saharan Africa,9,Male,28.62576675
+2015,Sub-Saharan Africa,9,Male,28.88981438
+2016,Sub-Saharan Africa,9,Male,29.15779114
+2017,Sub-Saharan Africa,9,Male,29.42478371
+2018,Sub-Saharan Africa,9,Male,29.69335175
+1991,Sub-Saharan Africa,9,Female,23.33415794
+1992,Sub-Saharan Africa,9,Female,23.7001133
+1993,Sub-Saharan Africa,9,Female,23.83122063
+1994,Sub-Saharan Africa,9,Female,24.40392685
+1995,Sub-Saharan Africa,9,Female,25.07865906
+1996,Sub-Saharan Africa,9,Female,25.51571846
+1997,Sub-Saharan Africa,9,Female,25.96377563
+1998,Sub-Saharan Africa,9,Female,26.3861866
+1999,Sub-Saharan Africa,9,Female,26.81652069
+2000,Sub-Saharan Africa,9,Female,27.36327553
+2001,Sub-Saharan Africa,9,Female,28.19223213
+2002,Sub-Saharan Africa,9,Female,28.26730919
+2003,Sub-Saharan Africa,9,Female,28.68263245
+2004,Sub-Saharan Africa,9,Female,29.05647659
+2005,Sub-Saharan Africa,9,Female,29.53328514
+2006,Sub-Saharan Africa,9,Female,29.91631317
+2007,Sub-Saharan Africa,9,Female,30.2981472
+2008,Sub-Saharan Africa,9,Female,30.67414474
+2009,Sub-Saharan Africa,9,Female,30.70070839
+2010,Sub-Saharan Africa,9,Female,30.87398338
+2011,Sub-Saharan Africa,9,Female,31.09824753
+2012,Sub-Saharan Africa,9,Female,31.38505173
+2013,Sub-Saharan Africa,9,Female,31.6260891
+2014,Sub-Saharan Africa,9,Female,31.92983055
+2015,Sub-Saharan Africa,9,Female,32.2296257
+2016,Sub-Saharan Africa,9,Female,32.54959488
+2017,Sub-Saharan Africa,9,Female,32.8710556
+2018,Sub-Saharan Africa,9,Female,33.19366074
+1991,world,10,Total,33.79675674
+1992,world,10,Total,34.21762848
+1993,world,10,Total,35.04203415
+1994,world,10,Total,35.8972168
+1995,world,10,Total,36.90372467
+1996,world,10,Total,37.63320541
+1997,world,10,Total,38.12470627
+1998,world,10,Total,38.4583168
+1999,world,10,Total,38.7215004
+2000,world,10,Total,39.05212784
+2001,world,10,Total,39.46388245
+2002,world,10,Total,39.95854187
+2003,world,10,Total,40.43229294
+2004,world,10,Total,41.11625671
+2005,world,10,Total,41.53762436
+2006,world,10,Total,42.11745453
+2007,world,10,Total,42.49571991
+2008,world,10,Total,43.06533813
+2009,world,10,Total,43.67061996
+2010,world,10,Total,44.05166626
+2011,world,10,Total,44.49961853
+2012,world,10,Total,45.02536011
+2013,world,10,Total,45.12297058
+2014,world,10,Total,45.45018768
+2015,world,10,Total,45.78538513
+2016,world,10,Total,46.10420227
+2017,world,10,Total,46.42502975
+2018,world,10,Total,46.74451447
+1991,world,10,Male,33.37458038
+1992,world,10,Male,33.74898529
+1993,world,10,Male,34.46455383
+1994,world,10,Male,35.18016815
+1995,world,10,Male,35.96937561
+1996,world,10,Male,36.5868454
+1997,world,10,Male,36.96689606
+1998,world,10,Male,37.2455101
+1999,world,10,Male,37.44574356
+2000,world,10,Male,37.7238121
+2001,world,10,Male,38.03430557
+2002,world,10,Male,38.48873138
+2003,world,10,Male,38.88679886
+2004,world,10,Male,39.46496201
+2005,world,10,Male,39.78056335
+2006,world,10,Male,40.11911774
+2007,world,10,Male,40.35827637
+2008,world,10,Male,40.71721649
+2009,world,10,Male,41.27194595
+2010,world,10,Male,41.62374878
+2011,world,10,Male,41.94322205
+2012,world,10,Male,42.31699371
+2013,world,10,Male,42.30596542
+2014,world,10,Male,42.64702988
+2015,world,10,Male,43.00279999
+2016,world,10,Male,43.3523674
+2017,world,10,Male,43.70536423
+2018,world,10,Male,44.05838394
+1991,world,10,Female,34.44907379
+1992,world,10,Female,34.93842316
+1993,world,10,Female,35.93040848
+1994,world,10,Female,36.99668503
+1995,world,10,Female,38.33494949
+1996,world,10,Female,39.23553467
+1997,world,10,Female,39.89403152
+1998,world,10,Female,40.30981064
+1999,world,10,Female,40.66051483
+2000,world,10,Female,41.06584167
+2001,world,10,Female,41.62681198
+2002,world,10,Female,42.17285538
+2003,world,10,Female,42.75559998
+2004,world,10,Female,43.59498596
+2005,world,10,Female,44.17208481
+2006,world,10,Female,45.12207794
+2007,world,10,Female,45.71510315
+2008,world,10,Female,46.61456299
+2009,world,10,Female,47.30234528
+2010,world,10,Female,47.75321198
+2011,world,10,Female,48.40771484
+2012,world,10,Female,49.1702919
+2013,world,10,Female,49.43714523
+2014,world,10,Female,49.74729919
+2015,world,10,Female,50.05590439
+2016,world,10,Female,50.33286285
+2017,world,10,Female,50.60955811
+2018,world,10,Female,50.88241577
