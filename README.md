@@ -121,22 +121,22 @@ higher GDP per capita.
 #### 3.4 Checking the hypothesis of correlation for the same period across different countries
 Checking the assumption that countries or regions having higher share in services sector tend to have
 higher GDP per capita.
-(1) Scatterplot between share of employment in services and GDP per capita for each country in 2012
+##### (1) Scatterplot between share of employment in services and GDP per capita for each country in 2012
 CMT212 Visual Communication and Information Design Coursework 2
 5
 According to the scatterplot below, it seems there is a slightly positive correlation between the two
 factors. Countries which have a higher share in services sector, tend to have higher GDP per capita.
-(2) Scatterplot between share in services sector and output per worker for each country in 2012
+##### (2) Scatterplot between share in services sector and output per worker for each country in 2012
 The plot shows the same result as the previous one.
-(3) Test Pearson’s correlation between share in services sector and output per worker
+##### (3) Test Pearson’s correlation between share in services sector and output per worker
 The results are all significant for 9 regions. And the Pearson R of East Asia is the highest which means a
 higher correlation, and the Pearson R of Middle East is the lowest.
-(4) Test Pearson’s correlation between share in services sector and GDP per capita
+##### (4) Test Pearson’s correlation between share in services sector and GDP per capita
 CMT212 Visual Communication and Information Design Coursework 2
 6
 The result is not significant only for Middle East. For the remaining regions, the result is significant and
 the Pearson R values for each region are similar with results of the previous test.
-3.5 Checking the hypothesis of correlation for the same countries across 28 years
+### 3.5 Checking the hypothesis of correlation for the same countries across 28 years
 In addition, in order to detect whether ‘GDP per capita increase as the share in services sector increases’
 for each country, the hypothesis of Pearson correlation was also check for each countries using code
 below.
@@ -166,25 +166,26 @@ results are significant.
 CMT212 Visual Communication and Information Design Coursework 2
 7
 • Main procedures of Implementation
+---------------------------------------------
 In this part, only procedures which is worth pointing out will be mentioned, such as problem fixed or still
 not fixed, or some useful methods for future.
-1. Small-multiple stacked bar chart
+### 1. Small-multiple stacked bar chart
 For showing the process of economies move through three stages, stacked bar chart was used. Since
 we have found that the situations are different for different countries/regions, we want to present the
 same stacked bar chart for each region, then a small-multiple stacked bar chart was used.
-(1) Transforming the raw data to a efficient structure
+#### (1) Transforming the raw data to a efficient structure
 Since Small-multiple chart has a hierarchical structure, and stacked bar chart also needs to stack data
 in to different groups. Therefore, we need a 2 layers nested data in this case.
-(1.1) The structure of html elements we want to build.
+##### (1.1) The structure of html elements we want to build.
 We need 10 ‘svg’ since we need to build 10 stacked barchart for 10 regions. In each ‘svg’, as we have 3
 sectors, 3 ‘g’ elements are needed with each ‘g’ to represent one sector. And in each ‘g’ element, as
 there is 28 years, 28 ‘rect’ elements are needed with each one representing values for a specific year.
-(1.2) Method of transforming raw data to expected data structure
+##### (1.2) Method of transforming raw data to expected data structure
 Methods used contain d3.nest() and d3.stack().
-(1.3) The resulting structure of data
+##### (1.3) The resulting structure of data
 CMT212 Visual Communication and Information Design Coursework 2
 8
-(1.4) The interesting property of the d3.stack() method.
+##### (1.4) The interesting property of the d3.stack() method.
 The interesting and useful part of d3.stack() method:
 d.stack[0][1] ==d.stack[1][0],
 d.stack[1][1] ==d.stack[2][0],
@@ -192,8 +193,8 @@ d.stack[0][1] - d.stack[0][0] is the value for first sector,
 d.stack[1][1] - d.stack[1][0] is the value for second sector,
 d.stack[1][1] - d.stack[1][0] is the value for third sector.
 This property is just useful to make a stacked bar chart.
-(2) Problem I got stuck
-(2.1) Updating data using ‘onclick’ event
+#### (2) Problem I got stuck
+##### (2.1) Updating data using ‘onclick’ event
 This problem appeared when trying to use the 3 buttons (Total/Male/Female) to update attributes of
 chart.
 The expected result:
@@ -237,8 +238,8 @@ The third trial for fixing this problem:
 The final solution is building an update() function, so that we could select the html elements of each
 layer which actually hold data, and then we would rebind new data to each of these layers in order
 to achieve an update. The problem was solved.
-2. Scatterplot
-(1) Fitting a regression line for dots
+### 2. Scatterplot
+#### (1) Fitting a regression line for dots
 Function for regression:
 In order to show correlation between the two factors (Share of employment and GDP per capita), a
 function was used to fit a linear regression line for those dots. The purpose of this function is
@@ -252,7 +253,7 @@ CMT212 Visual Communication and Information Design Coursework 2
 Solution:
 The solution is quite straightforward. It just avoids pushing new coordinates which are out of y scale to
 the resulting array, since we do not need that much coordinates to draw a line.
-(2) Interaction for selecting regions
+#### (2) Interaction for selecting regions
 For user to change region presented by the scatterplot, interactive legends are used.
 But in the procedure of implementation, there were some issues which have been considered.
 a. Whether to use Mouseover or Click on legend for interaction:
@@ -290,13 +291,13 @@ Hence, we don’t want to make the difference between the slope obvious, then we
 of coordinate accordingly.
 CMT212 Visual Communication and Information Design Coursework 2
 13
-(3) Interaction for selecting sector
+#### (3) Interaction for selecting sector
 For user to change sector presented by the scatterplot, interactive legends are used.
-3. Small-multiple Linecharts
+### 3. Small-multiple Linecharts
 The purpose of the country linecharts and region linecharts is to compare the share of employment in
 services sector between male and female. Since small-multiple is used to draw 3 linecharts both for region
 and country section, so the data used here are also 2 layers nested data.
-(1) Dynamic assigned id or class attribute of the convenience of selection
+#### (1) Dynamic assigned id or class attribute of the convenience of selection
 In this part of visualisation, the mouseover event are also used by interactive legends. But the different
 part is that, the elements needed to be active are not only the legend itself, but also the lines for the
 corresponding region and corresponding countries with in this region.
@@ -306,7 +307,7 @@ Assigning dynamic id to html element that we need to use in later selection.
 CMT212 Visual Communication and Information Design Coursework 2
 14
 Then in mouseover() function, we could select html elements by “id” or “class” to control their attributes.
-(2) About code reuse
+#### (2) About code reuse
 The codes for region linechart and country linechart have a high proportion of repetition, since they draw
 small-multiple linechart respectively. It is possible to reuse the section of define width/height/Scale/axis.
 It might be possible to combine and reuse codes from both parts by creating a function, but there are
@@ -317,7 +318,7 @@ c. Their tooltips show different contents.
 d. They have different ways of assigning id and class, for different ways of later selection.
 I have already combined the part of defining width/height/Scale/axis, but haven’t look in to combine the
 other parts.
-4. World map
+### 4. World map
 When slider is moved, updating attributes necessary instead of redrawing
 In the world map section, there is a slider for year selection. When the year selected changes, the colour
 of the map and the content of tooltip will change accordingly. As the geographical shape of the map does
@@ -328,7 +329,7 @@ CMT212 Visual Communication and Information Design Coursework 2
 15
 In this way, when the slider is move, the topojson data doesn’t need to be rebound to html elements, and
 the geographical shape doesn’t need to be redrawn.
-5. Parallel coordinates --- something tried but got problem
+### 5. Parallel coordinates --- something tried but got problem
 ‘Parallel coordinates’ is a way of visualizing high-dimensional data. A set of points in an n-dimensional
 Cartesian coordinate system, would be transformed to n parallel lines, typically vertical and equally spaced.
 A point in n-dimensional space is represented as a polyline with vertices on the parallel axes.
@@ -337,13 +338,13 @@ each country (3 dimensional data) with x, y coordinates, and colour, ‘Parallel
 high-dimensional data (as much as you want as it is sensible).
 So, instead of using a point to represent a country/region in Cartesian coordinate system, we use a
 polyline to represent a country/region in ‘Parallel coordinates’.
-(1) What has achieved
+#### (1) What has achieved
 The graph below is what has achieved so far (also see parcoords.html). It shows 5 attributes for each
 region (although some of them are not independent of each other). According to the chart, we could
 see, in most of the region Female has higher share in services sector.
 This 5 dimensional ‘Parallel coordinates’ was implemented using the same method as drawing a line
 chart, although there is also a package in d3 for ‘Parallel coordinates’.
-(2) Problems
+#### (2) Problems
 a. The scaling of each dimension
 A real ‘Parallel coordinates’ should set the scale of each dimension according to the range of each
 attribute, and appropriate scaling methods can reveal more informative views. But in the chart above,
@@ -360,8 +361,10 @@ of the data.
 If we want to draw a ‘Parallel coordinates’ for all 178 countries in our data set, then there would be 178
 polylines. In this case, the brushing effect would be imperative.
 So, the ‘Parallel coordinates’ section should be developed further.
+
 • Evaluation of the visualisation work
-1. Small-multiple stacked barchart
+------------------------------------------------------
+### 1. Small-multiple stacked barchart
 Merits:
 a. Percentage stacked barchart
 It is typical in describing the process of economic moving through three stage. It could show the
@@ -377,7 +380,7 @@ a. Buttons for shifting between genders
 It might be quite annoying to click the buttons continually to compare between genders.
 Also, since there is no change of the style of button which has been clicked, it is difficult to distinguish
 whether the current visualisation is for Male or Total or Female.
-2. Scatterplot
+### 2. Scatterplot
 Merits:
 For Scatterplot:
 It is for describing correlation between to factor.
@@ -401,7 +404,7 @@ The regression line might be misleading, since user might use the slope of the l
 correlation between two factors. But actually, we should bear in mind, the slope of regression line is
 only used indicate the correlation is positive or negative. It is only equals to correlation r coefficient
 when both x and y coordinates are standardised.
-3. Small multiple linechart
+### 3. Small multiple linechart
 The country linecharts and region linecharts are supposed to show that higher proportion of women
 tend to work in services sector, they experienced a higher speed of shift from another two sectors to
 Services sector compared to men.
@@ -425,7 +428,7 @@ The reason behind this situation might be the countries have higher share in ser
 volume of employment. But the sad thing is the chart itself can’t give the reason explicitly.
 Further, if we are interested in what those countries are, the awkward thing is the charts for countries
 doesn’t show name of country since it is impossible to show names for countries among so many lines.
-4. The map section
+### 4. The map section
 Merits:
 The world map gives a general view about the distribution of share in service around the world.It is
 easy to detect how unbalanced the situation is.
@@ -441,11 +444,13 @@ CMT212 Visual Communication and Information Design Coursework 2
 But there is a webpage layout problem, because it is impossible to place both the linechart for countries
 and the map within on screen. Therefore, for some countries (e.g. Australia) positioned in the bottom
 of map, the related lines would be unseen.
-5. ‘Explain a lot’ or ‘Let the user explore themselves’
+### 5. ‘Explain a lot’ or ‘Let the user explore themselves’
 The web page of this visualisation work is full of words. This is a problem. No explanation might make
 users get lost, too many explanations might leave no room for users to explore by themselves.
 A good visualisation work should be able to explain itself.
+
 • Conclusion
+-------------------------
 Overall, each section of this visualisation work fulfill the purpose of designing it and presenting it. It has
 high density of data ink, also provide interactive tools which enable users to discover by themselves.
 But there might be a few redundancies (repetitions) among this visualisation work since same features of
