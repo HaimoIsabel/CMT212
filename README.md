@@ -16,7 +16,7 @@ economics moving through three sector.
 
 • Description of dataset and transformation
 ----------------------------------------------
-###1. Origin of dataset
+### 1. Origin of dataset
 Variables File name Description
 Share of employment by
 sector by gender
@@ -51,16 +51,16 @@ World map topojson readme-world.json
 GDP per Capita and Output per worker are both included in the data for analysis process, in order to see
 whether they could justify each other.
 
-###2. Procedure of transformation
+### 2. Procedure of transformation
 For transformation, the main methods used are from python packages panda.
-####(1) Load dataset
+#### (1) Load dataset
 CMT212 Visual Communication and Information Design Coursework 2
 2
-####(2) Procedure of combining four csv datasets
+#### (2) Procedure of combining four csv datasets
 Finally, all four csv origin data set was combined together as dataframe ‘data_prod_gdp’. And
 ‘data_prod_gdp’ was further used for two purpose: (1) initial analysis (2) further transformation for the
 convenience of presenting by Js.d3.
-####(3) Further transformation
+#### (3) Further transformation
 The procedure was documented in the ipython file ‘coursework_python.ipynb’.
 This process is full of methods of melt, concat, merge, drop, rename, and is purely for converting
 dataframe ‘data_prod_gdp’ to the expected structures which are easy for the html construction part by
