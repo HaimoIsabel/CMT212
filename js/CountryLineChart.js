@@ -1,7 +1,7 @@
 ////////////////////////////////////////////////////////////////////////////
 /////////////////////init smallmultiple line ///////////////////////////////
 var LNwidth = document.getElementById('country_linechart').clientWidth;
-var LNheight = 200;
+var LNheight = 201;
 
 var LNmargin = {
     top: 15,
